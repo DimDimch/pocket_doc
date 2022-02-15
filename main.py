@@ -4,4 +4,4 @@ import pandas as pd
 # print(1)
 if __name__ == '__main__':
     data=pd.read_csv("dataSpell/dataset.csv")
-    print(data[1])
+    print(data)
