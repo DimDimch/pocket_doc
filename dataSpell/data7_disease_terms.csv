@@ -1,0 +1,1771 @@
+,rid,disease_cui,snomed_code,Terms
+0,1,C0343681,240562003,Pustular syphilide
+1,2,C0027145,43153006,Myxedema (disorder)
+2,3,C0156346,198253003,Endometriosis of rectovaginal septum and vagina
+3,4,C0264604,51100001,Hypokinetic parkinsonian dysphonia
+4,5,C0268982,72746005,Infertility due to incomplete spermatogenic arrest
+5,6,C0343686,240566000,Gummatous neurosyphilis
+6,7,C0393524,230232005,Late onset cerebellar ataxia
+7,8,C0393678,230389006,Primary inherited reading epilepsy
+8,9,C0406531,200921001,Erythema papulatum
+9,10,C0014866,63305008,Stricture of esophagus
+10,11,C0155186,193969001,Other eyelid disorder NOS
+11,12,C0234549,19334007,Stress seizure
+12,13,C0234978,267592003,Motor cortex epilepsy
+13,14,C0338480,56097005,Migraine without aura
+14,15,C0413299,242015007,Exhaustion - physiological
+15,16,C0870082,396228006,Hyperkeratosis (disorder)
+16,17,C0041227,78940002,Trypanosomiasis (disorder)
+17,18,C0158232,202637004,"Joint disorder NOS, of the upper arm"
+18,19,C0241880,26681001,Endometriosis of pelvis
+19,20,C0269115,8421002,Endometriosis of appendix
+20,21,C0339823,232362005,Cyst of nasal cavity
+21,22,C1096063,445355009,Refractory epilepsy
+22,23,C0080040,31097004,Post poliomyelitis syndrome
+23,24,C0271508,61444009,Disharmonic diplacusis
+24,25,C0348751,197555009,[X]Other specified diseases of liver
+25,26,C0472354,230415009,Cryptogenic generalized epilepsy
+26,27,C0751122,230437002,Severe myoclonic epilepsy in infancy
+27,28,C0406539,238816001,Toxic urticated erythema
+28,29,C0406740,109478007,Kohlschutter's syndrome
+29,30,C0751774,418763003,Periodic limb movement disorder
+30,31,C1290878,128135006,Disorder of thigh
+31,32,C1868889,440630006,Irritable bowel syndrome characterized by constipation
+32,33,C1304410,402658008,Serum sickness type vasculitis
+33,34,C0042798,7973008,Abnormal vision
+34,35,C0269113,57493005,Endometriosis of vagina
+35,36,C0267656,53156005,Postcholecystectomy diarrhea
+36,37,C0029816,194532004,[X]Other specified myoneural disorders
+37,38,C0085622,86022000,Monoplegia (disorder)
+38,39,C0269150,2526004,Noninflammatory disorder of the female genital organs
+39,40,C0392439,200976008,Acrodermatitis continua
+40,41,C0001175,62479008,Acquired immune deficiency syndrome (AIDS) (disorder)
+41,42,C0272269,30048004,Cold erythema associated with hemolysins
+42,43,C0033103,78146007,Pretibial myxedema
+43,44,C0393671,230382002,Benign frontal epilepsy of childhood
+44,45,C0395921,232285008,Benign recurrent vertigo
+45,46,C0522254,103012002,Analgesic overuse headache
+46,47,C0577725,301030002,Anterior mediastinum mass
+47,48,C0269107,61640006,Endometriosis of cervix
+48,49,C0339655,232118008,Anomaly of vergence system
+49,50,C0751642,230397004,Anterior frontopolar epilepsy
+50,51,C1535555,156653009,(Coccygeal disorder NOS) or (coccydynia)
+51,52,C0011757,27544004,Developmental coordination disorder
+52,53,C0152522,43240000,Diarrhea of presumed infectious origin
+53,54,C0266102,78753008,Globulo-maxillary cyst
+54,55,C1302248,399194009,Disorder characterized by back pain
+55,56,C0155359,111534007,Scleral staphyloma
+56,57,C0278212,4142001,Muscular asthenopia
+57,58,C0338481,95655001,Ophthalmic migraine
+58,59,C0343266,203494009,Algodystrophy of knee
+59,60,C0011606,396349005,Generalized erythroderma
+60,61,C0030436,200766001,Parakeratosis (disorder)
+61,62,C0267663,18805001,"Congenital secretory diarrhea, sodium type"
+62,63,C0948268,422773005,Hemodynamic instability
+63,64,C0263835,66553004,"Effusion of joint of other site, NEC"
+64,65,C0272407,79040006,Splenic cyst
+65,66,C0396005,232407000,Pharyngeal spasm
+66,67,C1534238,154750002,(Plasma protein metabolism disorder: & [hyperproteinaemia] or [hypoproteinaemia]) or (Waldenstrom's macroglobulinaemia)
+67,68,C1534238,154750002,(Plasma protein metabolism disorder: & [hyperproteinemia] or [hypoproteinemia]) or (Waldenstrom's macroglobulinemia)
+68,69,C0007462,408751001,"Complex regional pain syndrome, type II"
+69,70,C0014718,266158001,Candidal intertrigo
+70,71,C0038034,42094007,Sporotrichosis (disorder)
+71,72,C0154678,192864003,Other and unspecified extrapyramidal diseases and abnormal movement disorders (disorder)
+72,73,C0278162,3756000,Static ataxia
+73,74,C1535418,155667007,(Tongue disease NOS) or (coated tongue) or (geographic tongue) or (glossodynia)
+74,75,C0011346,6288001,Accretion on teeth
+75,76,C1535339,196429002,Temporomandibular joint: [ankylosis] or [stiff]
+76,77,C1534531,206750008,([D]Hypersomnia with sleep apnea) or (sleep apnea syndrome)
+77,78,C0007761,41009006,Progressive cerebellar tremor
+78,79,C0156678,303063000,Eclampsia in puerperium
+79,80,C0410249,240107001,Viral myalgia
+80,81,C0007760,223176004,Cerebellar disorder
+81,82,C0022782,3323003,Leukoplakia of penis
+82,83,C0029741,203039009,Other specific muscle disorder
+83,84,C0423711,247391003,Perineal neuralgia
+84,85,C1290036,128618006,Disorder of finger
+85,86,C1960052,426896000,Chronic hypercapnic respiratory failure
+86,87,C0220669,279953009,Familial neonatal seizures
+87,88,C0267510,85920003,Constipation by outlet obstruction
+88,89,C0267602,70441009,Descending perineum syndrome
+89,90,C0162809,93559003,Hypogonadism with anosmia
+90,91,C0263885,89902003,Grisel's syndrome
+91,92,C0268813,82800008,Dipsogenic diabetes insipidus
+92,93,C0399418,52367009,Posteruptive tooth staining due to drug
+93,94,C1961123,426934001,Monoplegia of lower limb affecting non-dominant side (disorder)
+94,95,C0006430,399165002,Burning mouth syndrome
+95,96,C0340548,233949008,Pulmonary capillary hemangiomatosis
+96,97,C2959492,447123001,Epidermoid cyst of skin of thigh
+97,98,C0023760,90678009,Disorder of lip
+98,99,C0154703,41764006,Monoplegia of upper limb
+99,100,C0263599,54739001,Chrysoderma
+100,101,C0422846,246530009,Versive seizure
+101,102,C1274988,403666006,Drug-induced mucositis
+102,103,C0040435,234947003,Tooth disorder
+103,104,C0342965,238157005,Disorder of blood gas
+104,105,C1271073,395219004,Visual perceptual weakness
+105,106,C1274284,402845005,Physiological cutis marmorata
+106,107,C1542018,192846005,Myoclonus: [other] or [paramyoclonus multiplex]
+107,108,C0158326,268003009,"Other synovial, tendon and bursa disorders"
+108,109,C0270736,192839001,Essential tremor
+109,110,C0338553,230597003,Intercostal post-herpetic neuralgia
+110,111,C0699848,22169002,Intestinal disaccharidase deficiency
+111,112,C0729793,312446008,Female coital disorder
+112,113,C0221058,49605003,Ophthalmoplegic migraine
+113,114,C0263014,60033003,Panniculitis affecting back
+114,115,C0267438,83134002,Dietetic diarrhea
+115,116,C1302834,400106006,Disorder of skin of trunk
+116,117,C1827250,423753005,Reflex blepharospasm
+117,118,C0159027,206703004,[X]Other specified conditions originating in the perinatal period
+118,119,C0264280,60416001,Edema of nasopharynx
+119,120,C0270851,38281008,Benign neonatal convulsions
+120,121,C0016399,128612007,Focal motor seizure
+121,122,C0029411,88220006,Pachydermoperiostosis syndrome
+122,123,C0232266,59685007,Continuous murmur
+123,124,C0235522,90507008,Disorder of vein
+124,125,C0393613,230340001,Isolated facial tremor
+125,126,C0543820,403391003,Secondary erythromelalgia
+126,127,C1720189,421455009,Episodic ataxia
+127,128,C0158228,202630002,Other specified joint disorders of the ankle and foot
+128,129,C0555970,275496003,Nasal infection
+129,130,C0221237,266429005,Angular cheilitis
+130,131,C0269109,10535001,Endometriosis of broad ligament
+131,132,C0393736,398126006,Muscular headache
+132,133,C0395865,77478005,Acute sanguinous otitis media
+133,134,C0454615,229704003,Acquired choreiform dyspraxia
+134,135,C0274440,402414002,Urticarial reaction to blood product
+135,136,C0406543,238820002,Erythema multiforme of pregnancy
+136,137,C0034951,39021009,Disorder of refraction
+137,138,C0151436,60555002,Hypersensitivity angiitis
+138,139,C0270615,87842000,Generalized neuromuscular exhaustion syndrome
+139,140,C0006111,81308009,Disorder of brain
+140,141,C0010034,15250008,Disorder of cornea
+141,142,C0033893,398057008,Tension-type headache
+142,143,C0272021,48580008,Anemia due to starvation
+143,144,C1563308,201431008,(Skin and subcutaneous tissue disease NOS) or (sore skin)
+144,145,C0267645,359656003,Idiopathic diffuse ulcerative nongranulomatous enteritis
+145,146,C0271609,45248009,Isosexual virilization
+146,147,C0341420,235840008,Irritable bowel syndrome variant of childhood with constipation
+147,148,C0008679,27624003,Chronic disease (disorder)
+148,149,C0151740,271719001,Raised intracranial pressure
+149,150,C0234541,73706008,Epileptic cry
+150,151,C0452160,202794004,Lumbago with sciatica
+151,152,C0581348,202337006,Snapping shoulder
+152,153,C0037933,267968002,Vertebral column syndromes
+153,154,C0003123,79890006,Anorexic
+154,155,C0020538,38341003,Hypertensive disorder
+155,156,C0030331,76097009,Erythema nodosum migrans
+156,157,C0234539,71587006,Tetanic convulsion
+157,158,C0454619,229708000,Velar dyspraxia
+158,159,C0454635,229728001,Velopharyngeal mislearning
+159,160,C0877440,412740002,Periorbital erythema
+160,161,C0022354,59848001,Obstructive hyperbilirubinemia
+161,162,C0027339,17790008,Disorder of nail
+162,163,C0029770,197505001,[X]Other specified diseases of hard tissues of teeth
+163,164,C0029776,198539004,[X]Other specified disorders of bladder
+164,165,C0268305,80006005,Disorder of bilirubin metabolism
+165,166,C0393626,230350000,Opsoclonus-myoclonus syndrome
+166,167,C0405072,17787002,Peripheral neuritis in pregnancy
+167,168,C0406598,51696001,Lipogranulomatosis subcutanea of Rothmann and Makai
+168,169,C0520998,112218005,Phosphene
+169,170,C0221207,74774004,Urticaria due to cold
+170,171,C0264693,194823009,Acute coronary insufficiency
+171,172,C0270883,72655000,Alternating hypoglossal hemiplegia
+172,173,C0270883,9638002,Hypoglossal-pyramid syndrome
+173,174,C0393672,230383007,Benign psychomotor epilepsy of childhood
+174,175,C0155872,61937009,Simple chronic bronchitis
+175,176,C0264291,60100005,Cyst of pharynx
+176,177,C0270814,386781001,Spastic syndrome (disorder)
+177,178,C0393743,95654002,Chronic paroxysmal hemicrania
+178,179,C0014177,22611009,Endometriosis of fallopian tube
+179,180,C0267661,25898005,Congenital secretory diarrhea
+180,181,C0585541,307673003,Peripheral vestibular nystagmus
+181,182,C0009088,193947008,Ciliary neuralgia
+182,183,C0262979,277408007,Histologic type of inflammatory skin disorder
+183,184,C0343730,266114001,Perianal warts
+184,185,C0393788,230539002,Cluster tic syndrome
+185,186,C0405322,200420005,"Breast engorgement in pregnancy, the puerperium or lactation with antenatal complication"
+186,187,C1270923,387743001,Functional amblyopia
+187,188,C0549567,79644001,Pigment alteration
+188,189,C0741032,315025001,Refractory angina
+189,190,C0863106,444229001,Afebrile seizure
+190,191,C1302110,230480006,Headache following myelography
+191,192,C0013394,81712001,Pain in female genitalia on intercourse
+192,193,C0155919,40541001,Acute pulmonary edema
+193,194,C0264611,74227009,Apraxic aphonia
+194,195,C2711736,441678004,Refractory generalized nonconvulsive epilepsy
+195,196,C0007682,23853001,Disorder of the central nervous system
+196,197,C0029788,267824000,Other specified skin disorder NOS
+197,198,C0159020,87476004,Convulsions in the newborn
+198,199,C0270838,20544001,Secondarily generalized seizures
+199,200,C0340099,233706004,Drug-induced acute pulmonary edema
+200,201,C0393786,230537000,Idiopathic trigeminal neuralgia
+201,202,C0410238,203018002,Infective myositis-foot
+202,203,C0427105,249979008,Pusher syndrome
+203,204,C0454549,229639009,Hypofunctional aphonia
+204,205,C0549201,201077008,Asteatotic eczema
+205,206,C0554309,445646001,Prerenal azotemia
+206,207,C1504547,418402006,Corneal iron deposits
+207,208,C1971624,79890006,Loss of appetite
+208,209,C0271518,10277002,Cerebellopontine angle syndrome
+209,210,C0341225,235685007,Hamartoma of stomach
+210,211,C0474381,247706003,Chromatopsia
+211,212,C1319848,407666007,Nocturnal sleep-related eating disorder
+212,213,C0270854,71831005,Symptomatic generalized epilepsy
+213,214,C0406409,238695001,Aquagenic pruritus
+214,215,C1997440,428724006,Arthropathy of knee joint (disorder)
+215,216,C1298760,373409004,Inflammatory disorder of mediastinum
+216,217,C1534561,156760009,(Neuralgia/neuritis - NOS) or (nerve root pain NEC)
+217,218,C2960451,446901009,Verruca vulgaris of skin of pinna
+218,219,C1274382,402971008,Erythema multiforme due to mycoplasma infection
+219,220,C0009421,371632003,Coma (disorder)
+220,221,C0342517,237798008,Drug-induced virilization
+221,222,C0566748,48287005,Umbilical cord complication
+222,223,C0751185,95658004,Cough headache syndrome
+223,224,C1290807,128333008,Diarrheal disorder
+224,225,C1304494,403576004,Generalized pruritus of unknown etiology
+225,226,C0043352,56893005,Hyposecretion of salivary gland
+226,227,C0264589,19903002,Adductor spastic dysphonia
+227,228,C0238738,203095000,Spasm of back muscles
+228,229,C0267786,36564007,Parasitic fibroid
+229,230,C0152227,418035005,Excessive tear production
+230,231,C0263893,111237004,Putti's syndrome
+231,232,C0278196,53482009,Startle partial seizure
+232,233,C0393744,230476001,Atypical cluster headache
+233,234,C0393776,230498005,Sleep-related painful erections
+234,235,C1274381,402970009,Erythema nodosum due to Yersinia enterocolitica
+235,236,C0457014,239045006,"Hyperhidrosis, premature cavities and premolar aplasia"
+236,237,C0152230,73098005,Cholinergic urticaria
+237,238,C0348751,197370006,Other specified liver disorder
+238,239,C0348751,197374002,Other specified liver disorder NOS
+239,240,C0268040,55178001,Starvation ketoacidosis
+240,241,C0276022,186971007,Juxta-articular yaws nodules
+241,242,C0340105,233711002,Oxygen-induced pulmonary edema
+242,243,C0458219,128200000,Complex regional pain syndrome
+243,244,C1298685,373621006,Chronic pain syndrome
+244,245,C2919482,445345005,Remitting seronegative symmetrical synovitis with pitting edema
+245,246,C0085543,241006,Epilepsia partialis continua
+246,247,C0267660,25319005,Chronic diarrhea of infants AND/OR young children
+247,248,C0751931,25690000,Femoral neuropathy
+248,249,C0004782,70835005,Disorder of basal ganglia
+249,250,C0014548,19598007,Generalized epilepsy
+250,251,C0031029,81407003,Apical granuloma
+251,252,C0343265,203495005,Algodystrophy of foot
+252,253,C0426636,71820002,Urgent desire for stool
+253,254,C2584703,64491003,Myxedematous form of cretinism
+254,255,C0042454,232416001,Velopharyngeal incompetence
+255,256,C0263352,55608001,Prurigo simplex
+256,257,C0270705,56271007,Hypothermia-sweating syndrome
+257,258,C0263323,28664002,Herpes iris
+258,259,C0264679,35928006,Nocturnal angina
+259,260,C0586323,361268000,Alcohol-induced epilepsy
+260,261,C0009952,41497008,Febrile convulsion
+261,262,C0268029,26436007,Disorder of acid-base balance
+262,263,C0270860,83351003,Basilar migraine
+263,264,C1304360,402603005,Diffuse inflammatory erythema
+264,265,C1827190,425007008,"Migraine without aura, not refractory"
+265,266,C1827629,423894005,Refractory migraine
+266,267,C0001344,363746003,Acute pharyngitis
+267,268,C0263320,73658009,"Erythema multiforme, epidermal type"
+268,269,C0267613,18526009,Disorder of appendix
+269,270,C0521673,95672008,"Unilateral sensory loss of face and trunk, opposite sides"
+270,271,C0158334,78435003,Ganglion of joint
+271,272,C0269188,758002,Cyst of uterus
+272,273,C0585051,307176005,Acute sciatica
+273,274,C0260662,362966006,Disorder of auditory system
+274,275,C0406616,238910008,Skin disorder of umbilicus
+275,276,C0741026,371807002,Atypical angina
+276,277,C0042795,421809001,Entoptic phenomenon
+277,278,C0037672,80495009,Sleep walking disorder
+278,279,C0241075,34319007,Induration of skin
+279,280,C0281913,298280009,Swelling of skeletal muscle
+280,281,C0338478,230428002,Idiopathic myoclonic epilepsy
+281,282,C0422859,29963001,Dysmnesic seizure
+282,283,C0158281,33420007,Diffuse cervicobrachial syndrome
+283,284,C1720062,421376003,Subjective visual disturbance of image size
+284,285,C0011606,400005007,Erythrodermic eczema
+285,286,C0011606,200948000,Pityriasis rubra (Hebra)
+286,287,C0016428,42323001,Eruption cyst
+287,288,C0406139,238411004,Streptococcal intertrigo
+288,289,C2316708,432414001,Atonic constipation
+289,290,C0017411,310789003,Disorder of female genital system
+290,291,C0270846,42365007,Atonic seizure
+291,292,C0275983,78351007,Bovine winter dysentery
+292,293,C0456071,111474003,Disorder involving the integument of fetus OR newborn
+293,294,C0474442,49362009,Corneal edema due to wearing of contact lenses
+294,295,C0221260,87065009,Dystrophia unguium
+295,296,C0221370,31845005,Retraction of nipple (disorder)
+296,297,C0234221,79256006,Acroparesthesia (finding)
+297,298,C0234755,78977005,Ocular vertigo
+298,299,C0472348,278510009,Localization-related idiopathic epilepsy
+299,300,C0522253,103011009,Benign exertional headache
+300,301,C1534531,206750008,([D]Hypersomnia with sleep apnoea) or (sleep apnoea syndrome)
+301,302,C2960744,446112008,Cyst of pinna
+302,303,C0037280,128938009,Parasitic infection of skin
+303,304,C0162672,57254004,Fukuhara syndrome
+304,305,C0007760,224186005,Cerebellar deficiency syndrome
+305,306,C0029741,203839005,[X]Other specified disorders of muscle
+306,307,C0029741,203043008,Other specific muscle disorder NOS
+307,308,C1290846,127346000,Neurologic disorder of eye movements
+308,309,C1578692,156445005,(Skin disorders NOS) or (foreign body granuloma) or (pimple) or (wheal)
+309,310,C0269665,50764006,Vomiting due to organic disease during pregnancy
+310,311,C0340164,238676008,Lofgrens syndrome
+311,312,C0012569,24982008,Diplopia (disorder)
+312,313,C0162292,19373007,External ophthalmoplegia
+313,314,C0269178,5618007,Cyst of broad ligament
+314,315,C0282492,238776001,Idiopathic livedo reticularis with systemic involvement
+315,316,C0473118,235905008,Physiological hyperbilirubinemia
+316,317,C0473127,236066002,Prototheca diarrhea
+317,318,C0014122,73774007,Subacute bacterial endocarditis
+318,319,C0341850,237109002,Vulval warts
+319,320,C0343467,240411003,Erythema nodosum leprosum
+320,321,C1290857,118930001,Disorder of face
+321,322,C0022890,20425006,Labyrinthine disorder (disorder)
+322,323,C0037278,108365000,Infection of skin
+323,324,C0234139,77291009,Complete unilateral paresis
+324,325,C0567085,289669005,Pain of uterus (finding)
+325,326,C2959494,446434001,Epidermoid cyst of skin of ear
+326,327,C0007932,54570006,Chagas' disease without mention of organ involvement (disorder)
+327,328,C0015230,112625008,Cutaneous eruption
+328,329,C0272088,84260001,Hemoglobinopathy with cyanosis
+329,330,C0393728,230453004,Decision-making epilepsy
+330,331,C0700438,193028008,Sick headache
+331,332,C0025281,13445001,Ménière's disease
+332,333,C2711653,442481002,Epilepsy characterized by intractable complex partial seizures
+333,334,C0029821,196372009,Other specified periodontal disease
+334,335,C0037887,61830005,Sphenopalatine neuralgia
+335,336,C0038868,28978003,Progressive supranuclear ophthalmoplegia
+336,337,C0270148,38593000,Perinatal cyanotic attacks
+337,338,C0422855,68761002,Epileptic vertigo
+338,339,C0162835,23006000,Skin hypopigmented
+339,340,C0221048,4641009,Myxedema heart disease
+340,341,C0270871,1070000,Facial myokymia
+341,342,C0343065,402410006,Symptomatic dermographism
+342,343,C1274299,402864004,Diabetic wet gangrene of the foot
+343,344,C0032533,65323003,Polymyalgia rheumatica
+344,345,C1719883,421976005,Hypersensitivity disorder
+345,346,C0005937,112643007,Unicameral bone cyst
+346,347,C0022541,77835008,Ophthalmoplegia plus syndrome
+347,348,C0269103,89001007,Implanted endometriosis
+348,349,C1535080,156663001,(Tendinitis: [ankle/tarsus] or [achilles] or [ankle]) or (calcaneal spur) or (metatarsalgia)
+349,350,C1571959,155180006,(Lid lag) or (xanthelasma) or (eyelid disorders NOS)
+350,351,C0018975,399323001,Day blindness
+351,352,C0272104,57020009,Stokvis' disease
+352,353,C0394006,230782004,Dysequilibrium syndrome (disorder)
+353,354,C0702100,14800001,Dermatitis vegetans
+354,355,C1282376,314788004,Divergence insufficiency
+355,356,C1628308,418761001,Temporal crescent syndrome
+356,357,C2242981,420809008,Hysterical micropsia
+357,358,C0015397,371405004,Disorder of eye proper (disorder)
+358,359,C0032238,83264000,Epidemic pleurodynia
+359,360,C0152167,17440005,Anal spasm
+360,361,C0401146,197118003,Constipation - functional
+361,362,C0851578,39898005,Sleep disorder
+362,363,C0221237,367523002,Perleche
+363,364,C0270971,33010005,Floppy infant syndrome (disorder)
+364,365,C0271417,34723002,Diffuse otitis externa
+365,366,C0156383,22741003,Noninflammatory disorder of the vagina
+366,367,C0263398,58872001,Erythema elevatum diutinum (disorder)
+367,368,C0341089,197148000,Other functional disorder of the intestine NOS
+368,369,C0751523,442512002,Nonconvulsive status epilepticus
+369,370,C0033893,66551002,Psychogenic headache
+370,371,C0156407,266677000,Menopausal and postmenopausal disorders
+371,372,C0238232,86423004,Polyp of larynx
+372,373,C0269116,44601009,Endometriosis of colon
+373,374,C0275747,90911007,Erythematous plaques of pinta
+374,375,C0393722,230447004,Eyelid myoclonus with absences
+375,376,C1304464,403177004,Acute edema blisters
+376,377,C0156347,5562006,Endometriosis of intestine
+377,378,C0339471,232020009,Diabetic maculopathy
+378,379,C0559027,267728009,Blind or low vision - one eye only
+379,380,C0235560,95431003,Respiratory tract hemorrhage (disorder)
+380,381,C0264309,57781000,Disorder of vocal cord
+381,382,C1281944,314049009,Endometriosis of uterosacral ligament
+382,383,C0004608,42873008,Background retinopathy
+383,384,C0012634,64572001,Disease (disorder)
+384,385,C0264477,19274004,Grain-handlers' disease
+385,386,C0565576,288225004,Myalgia/myositis - multiple
+386,387,C1290882,128283000,Chronic nervous system disorder
+387,388,C0278110,77015008,Crossed hemiplegia
+388,389,C0022354,44018007,Cholestatic jaundice syndrome
+389,390,C0263359,58942006,Erythema dyschromicum perstans
+390,391,C0269108,84305006,Endometriosis of parametrium
+391,392,C0278213,4951008,Nervous asthenopia
+392,393,C0520998,29158001,Accommodation phosphene
+393,394,C0154706,194547008,[X]Other specified paralytic syndromes
+394,395,C0270206,206473001,"Fetal and neonatal jaundice, unspecified"
+395,396,C0405079,199028004,Hyperemesis gravidarum with metabolic disturbance - not delivered
+396,397,C0442874,386033004,Neuropathy (disorder)
+397,398,C0158352,268006001,"Muscle, ligament and fascia disorders"
+398,399,C0546212,109251008,Solar pruritus of elbows
+399,400,C1285537,363696006,Neonatal cardiovascular disorder
+400,401,C1611178,446220004,Cheiro-oral syndrome
+401,402,C0009088,230473009,Chronic cluster headache
+402,403,C0301918,83699005,Hypersensitivity reaction mediated by immune complex
+403,404,C0409264,202642007,"Joint disorder NOS, of ankle and foot"
+404,405,C0477961,206697000,[X]Other specified conditions of the integument specific to fetus and newborn
+405,406,C0575032,298254008,Thoracic facet joint pain
+406,407,C0347949,193655003,Other psychophysical visual disturbance
+407,408,C0016807,81120009,Functional disorder of intestine
+408,409,C0343042,125151004,Macula cerulea
+409,410,C0409783,202439008,Villonodular synovitis of metacarpophalangeal joint
+410,411,C0003460,2472002,Anuria (finding)
+411,412,C0393624,230348008,Palatal-tympanic myoclonus
+412,413,C0018196,72211003,Laryngeal granuloma
+413,414,C0026848,129565002,Disorder of muscle
+414,415,C0029788,201320001,Other specified skin disorders
+415,416,C0576533,299784009,Horizontal doll's head reflex absent
+416,417,C0029781,198532008,[X]Other specified disorders of kidney and ureter
+417,418,C0268316,15770003,Acute cholestatic jaundice syndrome
+418,419,C0393701,230420009,Symptomatic Lennox-Gastaut syndrome
+419,420,C0730120,312770008,Cyst of iris and/or ciliary body
+420,421,C1321490,403178009,Eczema craquelé due to acute edema
+421,422,C0031736,238525001,Polymorphic light eruption
+422,423,C0393787,230538005,Secondary trigeminal neuralgia
+423,424,C0031256,50091001,Petechia
+424,425,C0221005,80660001,Mauriac's syndrome
+425,426,C1304055,402178001,Brachioradial pruritus
+426,427,C1449721,34831003,Breast engorgement in newborn
+427,428,C2960306,446441007,Epidermoid cyst of skin of cheek
+428,429,C0013238,46152009,Tear film insufficiency
+429,430,C0155006,70042006,Psychophysical visual disturbance
+430,431,C0236103,95364002,Application site disorder
+431,432,C0234545,49481000,Postseizure delirium
+432,433,C0473807,206304007,Perinatal hemoptysis
+433,434,C0581395,309090002,Infection of penis
+434,435,C2960290,446935007,Epidermoid cyst of skin of groin
+435,436,C0009663,266113007,Genital warts
+436,437,C0033117,6273006,Priapism (disorder)
+437,438,C0264130,89874002,Xiphoidalgia syndrome
+438,439,C0270850,36803009,Idiopathic generalized epilepsy (disorder)
+439,440,C0409273,202358000,"Joint derangement NOS, of the ankle and foot"
+440,441,C1290048,123584008,Urticaria perstans
+441,442,C1636157,418817000,Corneal argyriasis
+442,443,C0406532,200922008,Erythema tuberculatum
+443,444,C0729254,313328009,Accommodative fatigue
+444,445,C1268586,129612002,Anterior ethmoidal nerve syndrome
+445,446,C1274904,403575000,Pruritus due to systemic disorder
+446,447,C1313946,405244005,Urine induced contact dermatitis
+447,448,C0231926,11483009,Ventilatory defect
+448,449,C0267868,38654001,Recurrent biliary colic
+449,450,C0340289,233821000,New onset angina
+450,451,C0393737,230470007,Episodic tension-type headache
+451,452,C0028992,239095007,Omphalitis
+452,453,C0238185,10718002,Juvenile myxedema
+453,454,C0270788,29426003,Paralytic syndrome
+454,455,C0394004,278509004,Congenital non-progressive ataxia
+455,456,C0022904,31053003,Disorder of lacrimal system
+456,457,C0152163,335002,Pylorospasm
+457,458,C0221243,15576007,Necrolytic migratory erythema
+458,459,C0574714,297941009,Drug-induced toxic erythema
+459,460,C1276129,402481000,Porphyria-induced scleroderma
+460,461,C0275746,37160003,Pintid
+461,462,C0029805,201079006,Other specified atrophic and hypertrophic conditions of skin
+462,463,C0393720,95208000,Photogenic epilepsy
+463,464,C0278135,71778000,Sensory extinction
+464,465,C0267397,75938008,Alimentary tract pain due to vascular insufficiency
+465,466,C0338483,230463007,Migraine with prolonged aura
+466,467,C0041912,54150009,Upper respiratory infection
+467,468,C0149931,37796009,Migraine (disorder)
+468,469,C0276672,41030002,Coccidioidomycosis with erythema multiforme
+469,470,C3164057,449189009,Mass associated with atrioventricular valve leaflet in atrioventricular septal defect
+470,471,C0340849,234162000,Simple faint
+471,472,C1456822,275520000,Claudication
+472,473,C1665347,192874000,Cerebellar ataxia associated with another disorder
+473,474,C2960037,447066005,Foreign body granuloma of penis
+474,475,C0027765,118940003,Disorder of nervous system
+475,476,C0234906,200920000,Annular erythema
+476,477,C0339230,231904004,Diffuse stromal keratoconjunctivitis
+477,478,C1299439,371811008,Recurrent angina post rotational atherectomy
+478,479,C0014175,129103003,Endometriosis (clinical)
+479,480,C0029794,201383002,[X]Other specified erythematous conditions
+480,481,C0042109,126485001,Urticaria (disorder)
+481,482,C0232826,76569007,Anti-diuresis
+482,483,C0011603,182782007,Dermatitis (disorder)
+483,484,C0027436,31490007,Nasociliary neuralgia
+484,485,C0039584,64910008,Disorder of testis
+485,486,C0260662,362989003,Auditory dysfunction
+486,487,C0272391,55366007,Tonsillar tag
+487,488,C0393697,230414008,Epilepsy with grand mal seizures on awakening
+488,489,C0399493,109789004,Amalgam tattoo
+489,490,C1290613,119291004,Disorder of upper gastrointestinal tract
+490,491,C0040997,31681005,Trigeminal neuralgia
+491,492,C0458225,279063004,Lumbar facet joint pain
+492,493,C0263358,399914006,Erythema annulare centrifugum
+493,494,C0393612,230339003,Isolated head tremor
+494,495,C0393676,230387008,Benign occipital epilepsy of childhood - early onset variant
+495,496,C0406047,267788007,Local infection skin/subcut tissue NOS (disorder)
+496,497,C0023066,406444002,Laryngeal spasm
+497,498,C0206586,9794007,Endolymphatic hydrops
+498,499,C0234136,23728006,Partial bilateral paralysis
+499,500,C0234138,40893006,Partial unilateral paresis
+500,501,C0236048,78809005,Gastric polyp
+501,502,C0340021,233651009,Endometriosis of pleura
+502,503,C0393572,230298007,Disorder presenting primarily with chorea
+503,504,C0030436,65068000,Parakeratosis (morphologic abnormality)
+504,505,C0393745,230477005,Chronic post-traumatic headache (disorder)
+505,506,C0014544,313307000,Epileptic seizure
+506,507,C0014544,128613002,Seizure disorder
+507,508,C0030469,7393007,Disorder of nasal sinus
+508,509,C0085109,19161004,Corneal neovascularization
+509,510,C0149875,65754002,Primary dysmenorrhea
+510,511,C0393691,230404004,Occipital lobe epilepsy
+511,512,C0017411,244938009,Disorder of female genital organs
+512,513,C0155803,195525003,Other specified diseases of circulatory system
+513,514,C0265894,16972009,Congenital aneurysm of aorta
+514,515,C1510417,30767006,Gait apraxia
+515,516,C1571968,195830008,Nasal: [obstruction] or [congestion (& sinus)] or [infection] or [sore nostril] or [cavity and sinus disease NOS]
+516,517,C0037120,61233003,Silo-fillers' disease
+517,518,C1534255,156025005,Dysmenorrhoea (& [non psychogenic] or [congestive] or [spasmodic])
+518,519,C0014553,50866000,Childhood absence epilepsy
+519,520,C0030353,248487006,Optic disc swelling
+520,521,C0338534,230530003,Congenital nuclear ophthalmoplegia
+521,522,C0686533,95201006,Pallor of spleen
+522,523,C0751785,230423006,Unverricht-Lundborg syndrome
+523,524,C0031762,22649008,Photodermatitis (disorder)
+524,525,C0263888,33308003,Disorder of back
+525,526,C0595948,23374007,Atypical absence seizure
+526,527,C0948349,418092006,Respiratory tract congestion
+527,528,C1299440,371812001,Recurrent angina after directional coronary atherectomy
+528,529,C0152226,60735000,Lagophthalmos
+529,530,C0157729,201074001,Other abnormal granulation tissue NOS
+530,531,C0263216,85207007,Bacterid
+531,532,C0278111,29093005,Crossed hemiparesis
+532,533,C0423712,247392005,Iliohypogastric nerve neuralgia
+533,534,C0014804,37151006,Erythromelalgia (disorder)
+534,535,C0015930,130955003,Nonreassuring fetal status
+535,536,C0154685,29774004,Vascular myelopathy
+536,537,C0270819,71427006,Cursive seizure
+537,538,C0345141,253733006,Pleuropericardial cyst
+538,539,C0459151,280133005,Disorder of soft tissue of trunk
+539,540,C0282309,52636001,Actinic reticuloid (disorder)
+540,541,C0343678,240558009,Macular syphilide
+541,542,C1290864,118948005,Disorder of abdomen
+542,543,C0011168,288939007,Difficulty swallowing
+543,544,C0264678,89323001,"Angina, class IV"
+544,545,C0270826,77450009,Unclassified epileptic seizures
+545,546,C0270847,15523002,Benign focal epilepsy of childhood
+546,547,C0343950,240771005,Pheohyphomycotic subcutaneous cyst
+547,548,C0393673,230384001,Benign atypical partial epilepsy in childhood
+548,549,C0454534,229622007,Dysfluency
+549,550,C0264004,85879003,Secondary fibrositis
+550,551,C0264584,35893006,Diaphragmatic cyst
+551,552,C0267834,85057007,Liver cyst
+552,553,C0400875,38205001,Diarrhea in diabetes
+553,554,C0037315,73430006,Sleep apnea
+554,555,C0339663,247015002,Relative afferent pupil defect (finding)
+555,556,C0347874,193008009,Somatosensory epilepsy
+556,557,C0393706,230429005,Early infantile epileptic encephalopathy with suppression bursts
+557,558,C0521517,95417003,Primary fibromyalgia syndrome
+558,559,C0149942,427943001,Diabetic ophthalmoplegia
+559,560,C0034150,387778001,Purpuric disorder
+560,561,C0158326,202899002,"Other disorders of the synovium, tendon and bursa"
+561,562,C0269104,46073007,Deciduomatosis
+562,563,C0270823,7033004,Petit mal status (disorder)
+563,564,C0275852,21523006,Syphilitic gumma of central nervous system
+564,565,C0347630,262796008,Liver hematoma
+565,566,C0393726,230451002,Tapping epilepsy
+566,567,C0302369,7052005,Alcohol hallucinosis
+567,568,C0343065,402601007,Physical urticaria
+568,569,C0585543,307675005,Central vestibular nystagmus
+569,570,C0744644,445322004,Migraine variant with headache
+570,571,C0156325,198569006,[X]Other specified disorders of breast
+571,572,C0263654,50510006,Painful piezogenic pedal papules
+572,573,C0270849,111498005,Extratemporal epilepsy
+573,574,C0278189,60317006,Pattern sensitive seizure
+574,575,C0751946,413638006,Benign neonatal sleep myoclonus
+575,576,C0158298,156645001,Back disorders - other
+576,577,C0393519,230227009,Early onset cerebellar ataxia
+577,578,C0042025,22220005,Genuine stress incontinence
+578,579,C0162429,47563007,Deficiency state
+579,580,C0269120,17829005,Endometriosis of umbilicus
+580,581,C0278193,7689009,Reading seizure
+581,582,C0393623,230347003,Segmental cord myoclonus
+582,583,C0085659,50610002,Erythema marginatum
+583,584,C0152172,59021001,Angina decubitus (disorder)
+584,585,C0264603,63576006,Mixed flaccid-spastic pseudobulbar dysphonia
+585,586,C0393833,230574001,Diabetic acute painful polyneuropathy
+586,587,C0422853,87095001,Olfactory seizure (disorder)
+587,588,C0267659,18168004,Raw-milk associated diarrhea
+588,589,C0155358,194594000,[X]Other disorders of sclera
+589,590,C1827691,425237009,Refractory frontal lobe epilepsy
+590,591,C2733582,443182008,Disorder of cornea associated with contact lens
+591,592,C0393593,15802004,Dystonia
+592,593,C0393751,103009000,Headache due to cold exposure
+593,594,C0406629,238922006,Disorder of scalp
+594,595,C0026893,203108005,Myalgia and myositis unspecified
+595,596,C0031142,66579008,Disorder of peritoneum
+596,597,C0041785,81573002,Diffuse disease of connective tissue
+597,598,C0341089,197146001,Other functional disorders of the intestine
+598,599,C0395932,361270009,Episodic recurrent vertigo
+599,600,C0409782,202441009,Villonodular synovitis of proximal interphalangeal joint of finger
+600,601,C0017332,192979009,Generalized non-convulsive epilepsy
+601,602,C0035204,50043002,Disorder of respiratory system
+602,603,C0234535,6208003,Clonic seizure
+603,604,C0263336,40370006,Immunologic urticaria
+604,605,C0339842,232377002,Nasal septal hematoma
+605,606,C0577711,301014005,Intertrigo of abdominal skin fold
+606,607,C0014747,54792008,Erythematosquamous dermatosis
+607,608,C0234756,18871009,Cerebellar vertigo
+608,609,C0267204,419219000,Drug-induced nausea and vomiting
+609,610,C1720149,422136003,Neuralgia associated with AIDS
+610,611,C1274293,402855009,Normocomplementemic urticarial vasculitis
+611,612,C1279983,238812004,Exanthematous disorder
+612,613,C0278187,41119002,Akinetic seizure without atonia
+613,614,C0404545,237117005,Endometriosis outside pelvis
+614,615,C1275460,403733004,Hemodialysis-associated pruritus
+615,616,C0014550,192992007,Epileptic seizures - myoclonic
+616,617,C0263318,22972008,"Erythema multiforme, dermal type"
+617,618,C0395920,232284007,Migrainous vertigo
+618,619,C0751524,423086004,Simple partial status epilepticus
+619,620,C0030463,60935008,Paramyoclonus multiplex
+620,621,C0013423,22451001,Primary torsion dystonia
+621,622,C0270206,30235009,Fetal AND/OR neonatal jaundice
+622,623,C0270853,6204001,Juvenile myoclonic epilepsy
+623,624,C0338486,230465000,Migraine aura without headache
+624,625,C0032266,17465007,Pneumatosis cystoides intestinalis
+625,626,C0156098,196796002,Other appendix diseases NOS
+626,627,C0278112,34209003,Cerebral hemiplegia
+627,628,C0406507,238773009,Idiopathic livedo reticularis
+628,629,C1834570,439732004,Myoclonic dystonia (disorder)
+629,630,C0750992,441833000,Lethal catatonia
+630,631,C1571826,190517002,(Virilism) or (adrenogenital virilization) or (pseudohermaphrodite female with adrenocortical disorder)
+631,632,C1578794,197005008,(Chronic intestinal vascular insufficiency) or (abdominal angina) or (chronic ischaemic colitis &/or enteritis)
+632,633,C1578794,197005008,(Chronic intestinal vascular insufficiency) or (abdominal angina) or (chronic ischemic colitis &/or enteritis)
+633,634,C0151824,37389005,Biliary colic
+634,635,C0264597,31283000,Abductor spastic dysphonia
+635,636,C0276467,70506007,Neonatal calf diarrhea
+636,637,C0347894,203114003,"Neuralgia, neuritis and radiculitis unspecified"
+637,638,C0152437,51195001,Placental polyp
+638,639,C0004095,70323002,Eye strain
+639,640,C0149778,95880003,Soft tissue infection
+640,641,C0263655,73501001,Painful pigmented pressure papules
+641,642,C0348727,197520007,[X]Other specified diseases of oesophagus
+642,643,C1960271,425422007,Headache due to high altitude
+643,644,C0270862,59292006,Hemiplegic migraine
+644,645,C1274681,403305002,Acquired koilonychia
+645,646,C2316225,431237007,Chronic headache disorder
+646,647,C0263112,63870005,Abscess of umbilicus
+647,648,C1290849,118654009,Disorder characterized by edema
+648,649,C1690985,418541005,Drug-induced corneal epithlelial deposit
+649,650,C1827966,424699007,"Migraine variants, not intractable"
+650,651,C0154232,49340009,Vitamin A deficiency with Bitot's spot AND conjunctival xerosis
+651,652,C0178298,80659006,Disorder of skin AND/OR subcutaneous tissue
+652,653,C0267005,67045005,Lymphoepithelial cyst of mouth
+653,654,C0270758,19350004,Athetosis with rigidity
+654,655,C0342961,238153009,Severe systemic illness tissue wasting
+655,656,C0393734,230460005,Complex partial status epilepticus
+656,657,C1735856,230462002,Migraine with typical aura
+657,658,C2267233,205294008,Neonatal hypotonia
+658,659,C0242420,6141006,Retinal edema
+659,660,C0269220,60098005,Cyst of vulva
+660,661,C0269662,27152008,Hyperemesis gravidarum before end of 22 week gestation with carbohydrate depletion
+661,662,C0158976,10877007,Perinatal jaundice due to hepatocellular damage
+662,663,C0393702,230421008,Myoclonic astatic epilepsy
+663,664,C0553642,279062009,Myofascial pain
+664,665,C0154840,87224000,Transient arterial retinal occlusion
+665,666,C0158940,7550008,Transitory tachypnea of newborn (disorder)
+666,667,C0276015,27684000,Gummatous periostitis of yaws
+667,668,C0338479,230430000,Symptomatic myoclonic epilepsy
+668,669,C0343228,202945006,Ganglion of ankle
+669,670,C0009443,82272006,Common cold
+670,671,C0032768,2177002,Postherpetic neuralgia (disorder)
+671,672,C0151744,414795007,Myocardial ischemia
+672,673,C0751226,426451004,Recurrent hypersomnia
+673,674,C0035455,70076002,Rhinitis (disorder)
+674,675,C0267511,21782001,Drug-induced constipation
+675,676,C1299598,371022006,Seizures due to metabolic disorder
+676,677,C0151864,173300003,Disorder of pregnancy (disorder)
+677,678,C0423704,247384001,Neurological pain disorder
+678,679,C0729735,312382002,Cyst of tendon sheath
+679,680,C0270805,43486001,Hemiplegic cerebral palsy (disorder)
+680,681,C0393689,230401007,Non-progressive Kozhevnikow syndrome
+681,682,C2363129,44145005,Benign Rolandic epilepsy
+682,683,C0010314,70173007,5p partial monosomy syndrome
+683,684,C0029594,190825006,Other disorders of plasma protein metabolism NOS
+684,685,C0338458,230279005,Non-Alzheimer's progressive dysphasia
+685,686,C1274675,403299004,Clubbing of nails associated with systemic disorder
+686,687,C2004411,196444001,Other specified dental disorder &/or toothache
+687,688,C3164623,447875008,Congenital mass of mitral leaflet
+688,689,C0038354,29384001,Disorder of stomach
+689,690,C0041105,87866006,Trismus (finding)
+690,691,C0405081,199023008,Mild hyperemesis-not delivered
+691,692,C0426970,192965001,Spastic tetraplegia
+692,693,C0263191,3038009,Acute lymphangitis of umbilicus
+693,694,C1275454,403385000,Lymphedema of lower extremity
+694,695,C0024207,191375005,"Unspecified lymphadenitis, excluding mesenteric lymphaden"
+695,696,C0151514,399979006,Atrophoderma
+696,697,C0263866,46960006,Lumbago-sciatica due to displacement of lumbar intervertebral disc
+697,698,C0278192,52125007,Gustatory seizure
+698,699,C0278197,83752007,Abdominal seizure
+699,700,C0393625,230349000,Hyoid myoclonus
+700,701,C1827983,425365009,Refractory migraine variants
+701,702,C0263217,3533007,Pustular bacterid
+702,703,C0264608,30736009,Dysphonia of palatopharyngolaryngeal myoclonus
+703,704,C0338933,191975000,Psychogenic genitourinary tract symptoms
+704,705,C0393762,191999000,Persistent hypersomnia
+705,706,C0029839,201271001,Other specified urticaria NOS
+706,707,C0267662,24412005,"Congenital secretory diarrhea, chloride type"
+707,708,C0025218,36209000,Chloasma (disorder)
+708,709,C0234536,2665008,Coordinate convulsion
+709,710,C0270822,49776008,Centrencephalic epilepsy
+710,711,C0022408,399269003,Arthropathy (disorder)
+711,712,C0152091,77881008,Osteochondropathy
+712,713,C0267173,3094009,Vomiting in infants AND/OR children
+713,714,C0270756,32680009,Nothnagel's syndrome
+714,715,C0751510,430390000,Sleep-related neurogenic tachypnea
+715,716,C0033036,406461004,Ectopic atrial beats
+716,717,C0033036,63593006,Supraventricular premature beats
+717,718,C0263657,16432008,Slap nodules of wrist
+718,719,C1541811,198404001,Dysmenorrhea (& spasmodic)
+719,720,C1541811,198404001,Dysmenorrhoea (& spasmodic)
+720,721,C0221061,66988006,Abortive cerebellar ataxia
+721,722,C0030508,58690002,Parasomnia (disorder)
+722,723,C1301829,398106007,Intensive care neurological disorder
+723,724,C0340856,234169009,Defecation syncope
+724,725,C0347873,193002005,Psychosensory epilepsy
+725,726,C0023066,41432000,Laryngismus stridulus
+726,727,C0268919,49701002,Disorder of scrotum
+727,728,C2711086,442027008,Inflammation of skin due to parasite (disorder)
+728,729,C0236036,95331002,Ocular-mucous membrane syndrome
+729,730,C0752289,429276004,Environmental sleep disorder
+730,731,C0178829,362968007,Disorder of reproductive system
+731,732,C0266998,41188003,Disorder of oral soft tissues
+732,733,C0452201,206573003,Withdrawal symptoms from therapeutic use of drugs in newborn
+733,734,C0040381,95794005,Tolosa-Hunt syndrome
+734,735,C0268226,34960006,Normosomatic sialidosis
+735,736,C0376356,82639001,Premenstrual tension syndrome
+736,737,C0563633,285767006,Delayed visual maturation
+737,738,C0014553,79631006,Absence seizure
+738,739,C0030353,73221001,Optic papillitis
+739,740,C0311268,197127002,Post-vagotomy syndrome
+740,741,C0393619,230343004,Symptomatic myoclonus
+741,742,C0393698,230416005,Cryptogenic West syndrome
+742,743,C0438414,192845009,Myoclonic encephalopathy
+743,744,C0453877,228144006,Impairment of voice production
+744,745,C2004435,82196007,Vascular insufficiency of intestine (disorder)
+745,746,C0036454,12184005,Visual field defect
+746,747,C1275050,403735006,Eosinophilia-myalgia syndrome from tryptophan
+747,748,C0007761,192871008,Early onset cerebellar ataxia with myoclonus
+748,749,C0035309,399625000,Retinopathy
+749,750,C0338484,95656000,Familial hemiplegic migraine
+750,751,C0338536,95669001,Superior laryngeal neuralgia
+751,752,C0393829,193183000,Acute painful diabetic neuropathy
+752,753,C1412035,265622002,"Equilibration disorder, vestibular nerve"
+753,754,C0025209,48010006,Melanosis (morphologic abnormality)
+754,755,C0042656,75983009,Vidian neuralgia
+755,756,C1274607,403211002,Papular form erythema multiforme
+756,757,C0268344,31798004,"Corneal fragility keratoglobus, blue sclerae AND joint hypermobility"
+757,758,C0395876,232256002,Otitis media with effusion - sanguinous
+758,759,C0020524,194439006,Disorders of excessive somnolence
+759,760,C0158370,203855003,[X]Other soft tissue disorders
+760,761,C0403661,75499007,Non-organic secondary enuresis
+761,762,C0521665,95657009,Chronic mixed headache syndrome
+762,763,C0267436,69980003,Non-infective diarrhea
+763,764,C0269118,65099004,Endometriosis of bladder
+764,765,C0454618,229707005,Dyspraxia of velopharynx
+765,766,C1691006,418209000,Dysphotopsia
+766,767,C0085920,76691009,Brachial plexus neuralgia
+767,768,C0158296,111238009,Other disorder of coccyx -RETIRED-
+768,769,C2349425,443095000,Hemicrania continua
+769,770,C0029498,196574006,Other and unspecified diseases of oral soft tissue
+770,771,C0029821,196378008,Other specified periodontal disease NOS
+771,772,C0270813,54364001,Lethal neonatal spasticity
+772,773,C0271487,87118001,Vertiginous syndrome
+773,774,C1302710,399902003,Disorder of body cavity
+774,775,C0302369,191476005,Alcohol withdrawal hallucinosis
+775,776,C0699848,267427000,Disaccharidase deficiency
+776,777,C0024248,12167004,Lymphocyst
+777,778,C0339743,193724000,"Better eye: severe visual impairment, Lesser eye: low vision unspecified"
+778,779,C0393687,230399001,Dorsolateral epilepsy
+779,780,C1576410,156368000,(Erythematous conditions NOS) or (granulome annulare)
+780,781,C0001396,271547004,Stokes-Adams attack
+781,782,C0001396,13620007,Stokes-Adams-Morgagni syndrome
+782,783,C0270794,17409003,Facial hemiparesis
+783,784,C0270820,89525009,Gelastic seizure
+784,785,C1275968,400051008,Senile asteatotic eczema
+785,786,C0426784,202768008,Rheumatic torticollis
+786,787,C0016053,24693007,Fibromyositis
+787,788,C0269114,38780008,Endometriosis of vulva
+788,789,C0043345,52475004,Xeroderma (disorder)
+789,790,C0155895,10519008,Acute pulmonary edema due to fumes AND/OR vapors
+790,791,C0264622,64161004,Psychogenic voice disorder
+791,792,C0393679,230391003,Amygdalo-hippocampal epilepsy
+792,793,C1304076,402245001,Angry back syndrome
+793,794,C0271388,35743001,Pendular nystagmus
+794,795,C0341858,237115002,Endometriosis of myometrium
+795,796,C0751019,230716006,Carotid territory transient ischemic attack
+796,797,C0025303,23511006,Meningococcal infectious disease
+797,798,C0270953,85034001,Myotonia acquisita
+798,799,C1960544,426479005,Urethral wart
+799,800,C0026603,37031009,Motion sickness
+800,801,C0266000,18749008,Congenital koilonychia
+801,802,C0038379,128602000,Heterotropia
+802,803,C0039978,118946009,Disorder of thorax
+803,804,C1579022,195196001,(Drop attack) or (transient cerebral ischaemia) or (vertebro-basilar insufficiency)
+804,805,C0267515,35074008,Chronic idiopathic anal pain
+805,806,C0274440,302972002,Urticarial transfusion reaction
+806,807,C1578669,155162002,(Acute conjunctivitis) or (Newcastle's disease) or (viral pharyngoconjunctivitis) or (pink eye) or (sticky eye)
+807,808,C1536114,426566004,Central pain syndrome
+808,809,C0155502,111541001,Benign paroxysmal positional vertigo (disorder)
+809,810,C0269110,5327000,Endometriosis of round ligament
+810,811,C0410205,240083001,Myopathy with type I hypotrophy
+811,812,C1720571,421735009,Melanin pigmentation of eye
+812,813,C0339473,193349004,Preproliferative diabetic retinopathy (disorder)
+813,814,C0340852,234165003,Elderly vasovagal syndrome
+814,815,C0008711,86094006,Chronic rhinitis
+815,816,C0263894,54314008,Putti-Chavany syndrome
+816,817,C0264676,41334000,"Angina, class II"
+817,818,C0729261,313325007,Cap polyp
+818,819,C1642397,417850002,Respiratory tract congestion and cough
+819,820,C1998392,428519006,Mixed obstructive and restrictive ventilatory defect
+820,821,C0029782,198070001,Other male genital organ diseases OS
+821,822,C0037933,302934007,Disorder of spine
+822,823,C0582505,204927007,Cyst of embryonic remnant - female
+823,824,C1274609,403213004,Erythema multiforme due to malignancy
+824,825,C0014550,37356005,Myoclonic seizure
+825,826,C0021807,58759008,Intertrigo (disorder)
+826,827,C0152457,77103006,Kayser-Fleischer ring
+827,828,C0403608,128073008,Disorder of ureter (disorder)
+828,829,C0013423,431034009,Torsion dystonia
+829,830,C0270206,206477000,Unspecified fetal or neonatal jaundice NOS
+830,831,C0270858,75879005,Abdominal migraine
+831,832,C0338485,230464001,Non-familial hemiplegic migraine
+832,833,C0393725,230450001,Eating epilepsy
+833,834,C0546351,111003001,Sporotrichotic gumma
+834,835,C0553694,126661001,Disorder of oropharynx
+835,836,C0400964,235906009,Hyperbilirubinemia - conjugated - type III
+836,837,C0406509,238775002,Idiopathic livedo reticularis with summer ulceration
+837,838,C1302820,400082007,Disorder of skin of head
+838,839,C0233501,71529007,Physiological disturbance associated with mood
+839,840,C1998127,429439000,Complex cyst of uterine adnexa
+840,841,C0278199,13847000,Partial seizure with impaired consciousness
+841,842,C0392702,260912008,Abnormal involuntary movement
+842,843,C0010073,23687008,Coronary artery spasm
+843,844,C0010264,83906008,Bathing cramp
+844,845,C0031350,405737000,Pharyngitis (disorder)
+845,846,C0205930,7359008,Algoneurodystrophy (disorder)
+846,847,C0264594,56509006,Adductor spastic dysphonia of organic voice tremor
+847,848,C0269100,23189007,Idiopathic vulvodynia
+848,849,C0521675,95676006,Berger's paresthesia
+849,850,C1571952,155009007,(Extrapyramidal disease NOS) or (blepharospasm) or (choreo-athetosis) or (writer's cramp - organic) or (myoclonic jerks) or (spasmodic torticollis)
+850,851,C0265808,12770006,Cyanotic congenital heart disease (disorder)
+851,852,C0278188,14521008,Visual seizure
+852,853,C0340241,233797002,Infected bronchogenic cyst
+853,854,C0549201,201025002,Winter itch
+854,855,C0549201,260046006,Dry skin dermatitis
+855,856,C0751778,267581004,Progressive myoclonic epilepsy
+856,857,C1299926,370525007,Exudative diathesis
+857,858,C2158436,433182005,Cyst of finger
+858,859,C0238902,21615003,Autonomic facial cephalgia
+859,860,C0410157,240044003,Fibrositis and nodular fasciitis
+860,861,C1527353,50642008,Algodystrophy (disorder)
+861,862,C0269268,66779006,Induration of breast
+862,863,C2004401,203139007,(Soft tissue disorders NOS) or (polyalgia)
+863,864,C0157669,200453000,Other disorder of lactation unspecified
+864,865,C0157669,200568002,[X]Other and unspecified disorders of lactation
+865,866,C0264621,23646007,Mixed nasality
+866,867,C0234365,49275006,Athetoid paralysis
+867,868,C0423074,35319002,Incomitant heterophoria
+868,869,C1290795,109800008,Disorder of uvula of palate
+869,870,C0029771,197566002,[X]Other specified diseases of pancreas
+870,871,C0269117,9563009,Endometriosis of rectum
+871,872,C0338497,192008004,Reversed sleep-wake cycle
+872,873,C0275526,85532005,Enanthematous infectious disease
+873,874,C1827624,423279000,Refractory migraine without aura
+874,875,C0406418,110989007,Pigmented peribuccal erythrosis of Brocq
+875,876,C0554467,201024003,Pruritus estivalis
+876,877,C0018776,68467004,Central hearing loss
+877,878,C0036412,33064008,Disorder of sclera
+878,879,C0269315,29908007,Oliguria following molar AND/OR ectopic pregnancy
+879,880,C0406535,200950008,Other exfoliative erythema
+880,881,C0585052,307177001,Chronic sciatica
+881,882,C1274606,403210001,Familial actinic prurigo of lip
+882,883,C3266099,449815008,Hematoma of perianal region
+883,884,C0263319,86563000,"Erythema multiforme, mixed dermal-epidermal type"
+884,885,C0272267,47149005,Cold erythema associated with cryoglobulin
+885,886,C0270788,286937002,Paralytic syndromes
+886,887,C0427023,202517008,Stiff metacarpophalangeal joint NEC
+887,888,C1571827,196515000,(Sialectasia) or (stenosis of salivary duct) or (other salivary gland diseases)
+888,889,C2981137,230405003,Chronic progressive epilepsia partialis continua of childhood
+889,890,C0156297,198555006,[X]Other specified disorders of prostate
+890,891,C0149797,200724002,Umbilical granuloma
+891,892,C1304387,402634009,Abnormality of nail shape
+892,893,C0014549,352818000,Tonic-clonic epilepsy
+893,894,C0042769,34014006,Viral disease
+894,895,C0267167,3696007,Nonulcer dyspepsia (disorder)
+895,896,C1299438,371810009,Recurrent angina after coronary artery bypass graft
+896,897,C1998254,427789001,Myoclonus of tensor tympani muscle
+897,898,C0042075,128606002,Disorder of the urinary system
+898,899,C0266835,2981001,Abdominal pulsatile mass
+899,900,C1274940,403618004,Drug-induced flushing
+900,901,C1290121,109277000,Melanocytic nevus of ear
+901,902,C0023009,231543005,Speech and language disorder
+902,903,C0234247,112102006,Atypical neuralgia
+903,904,C0457949,278860009,Chronic low back pain
+904,905,C0085648,240205003,Synovial cyst
+905,906,C0017412,64557000,Disorder of male genital organ
+906,907,C0042024,165232002,Urinary incontinence
+907,908,C0234434,58077008,Hypotensive syncope
+908,909,C0234435,90129003,Tussive syncope
+909,910,C1274608,403212009,Vesicobullous form erythema multiforme
+910,911,C0042109,64305001,Urticaria (morphologic abnormality)
+911,912,C0269119,50993001,Endometriosis of lung
+912,913,C0454591,229679000,Surface dysgraphia
+913,914,C0751643,230398009,Orbitofrontal epilepsy
+914,915,C0260662,128540005,Hearing disorder
+915,916,C0278179,90406001,Amorphosynthesis
+916,917,C0339741,232150003,Partial sight - both eyes
+917,918,C0398350,360371003,Acute cardiac pulmonary edema
+918,919,C0751120,192990004,Benign myoclonic epilepsy in infancy
+919,920,C0270857,79745005,Reflex epilepsy
+920,921,C0016696,79418008,Freemartin
+921,922,C0269112,52533003,Endometriosis of rectovaginal septum
+922,923,C0042373,27550009,Vascular disorder
+923,924,C0162281,74460005,Corneal deposit
+924,925,C0267557,15699003,Secretory diarrhea
+925,926,C0456750,194360001,Central positional nystagmus
+926,927,C0403721,236714000,Symptomatic disorders of the urinary tract
+927,928,C0011884,4855003,Diabetic retinopathy
+928,929,C0240225,300332007,Liver mass
+929,930,C1290136,128237006,Chronic disease of musculoskeletal system
+930,931,C0013080,41040004,Complete trisomy 21 syndrome
+931,932,C0263015,63885004,Panniculitis affecting sacrum
+932,933,C0393774,274950005,Sleep-related bruxism
+933,934,C0456018,271375003,Snuffles in newborn
+934,935,C1534255,156025005,Dysmenorrhea (& [non psychogenic] or [congestive] or [spasmodic])
+935,936,C1827878,422724001,Refractory localization-related epilepsy
+936,937,C2980107,201016008,Hebra's prurigo
+937,938,C3245524,363094008,Disorders with tall stature
+938,939,C0271184,53547005,Concentric fading of visual field
+939,940,C0271317,21480008,Acquired blepharophimosis
+940,941,C0278202,42440009,Partial seizure with illusions and hallucinations
+941,942,C0311268,236078003,Post-vagotomy diarrhea
+942,943,C0234142,66490000,Neurological muscular paralysis
+943,944,C0269839,18606002,Dyscoordinate labor
+944,945,C0162672,68448003,Myoclonus epilepsy AND ragged red fibers
+945,946,C0162672,230426003,Myoclonic epilepsy - ragged red fibers
+946,947,C1285162,362975008,Degenerative disorder
+947,948,C0026636,118938008,Disease of mouth
+948,949,C0037928,48522003,Spinal cord disease
+949,950,C0263843,11568002,Snapping hip (disorder)
+950,951,C0270819,193021002,Cursive (running) epilepsy
+951,952,C0033771,64144002,Pruritic rash
+952,953,C0155825,275488008,Sore throat - chronic
+953,954,C0263360,16921000,"Other specified erythematous condition, NEC"
+954,955,C1275434,402300003,Erythroderma of unknown etiology
+955,956,C1302539,399599006,Condyloma acuminata of vagina
+956,957,C1393778,432994008,Constipation due to neurogenic bowel
+957,958,C0029620,194174004,Other forms of nystagmus (disorder)
+958,959,C0277527,86615009,Epidemic diarrhea
+959,960,C1274751,403393000,Stellate pseudoscar in senile purpura
+960,961,C1290785,128337009,Disorder of palate
+961,962,C0008489,271700006,Chorea (finding)
+962,963,C0269173,59401005,Cyst of fallopian tube
+963,964,C0473491,237331002,Perineal hematoma
+964,965,C0686532,93428002,Discoloration of spleen
+965,966,C0013537,15938005,Eclampsia (disorder)
+966,967,C0015230,271807003,Eruption
+967,968,C0156345,198251001,Endometriosis of pelvic peritoneum
+968,969,C0549118,230407006,Hemiplegia-hemiconvulsion-epilepsy syndrome
+969,970,C0013384,9748009,Dyskinesia
+970,971,C0162819,11263005,Vascular disease of the skin
+971,972,C0268005,277547006,Hyposmolality
+972,973,C0270737,67305007,Familial essential myoclonus
+973,974,C0553604,193237003,Myotonic disorder
+974,975,C1630648,418471000,Propensity to adverse reactions to food
+975,976,C0263152,56644003,Cellulitis of umbilicus
+976,977,C0270210,47444008,Lucey-Driscoll syndrome
+977,978,C0347895,156750000,"Neuralgia, neuritis or radiculitis NOS"
+978,979,C0393758,191997003,Persistent insomnia
+979,980,C0406533,200923003,Erythema urticatum
+980,981,C1540625,186688003,(Warts: [genital] or [penile] or [venereal]) or (condylomata acuminatum)
+981,982,C0311312,396223002,External endometriosis (disorder)
+982,983,C0085541,230394006,Frontal lobe epilepsy
+983,984,C0270149,34681009,Perinatal respiratory distress
+984,985,C0344248,246775009,Horizontal spasm of gaze
+985,986,C0455715,41713005,Benedikt's syndrome
+986,987,C0521664,95653008,Acute confusional migraine
+987,988,C1282196,314498009,Contact lens related giant papillary conjunctivitis
+988,989,C0028709,2492009,Nutritional disorder
+989,990,C0276013,31969008,Yaws gumma of bone
+990,991,C0459805,280955001,Drug-induced melasma
+991,992,C0016053,203102006,Muscular rheumatism
+992,993,C0162429,248325000,Undernourished
+993,994,C0234249,112103001,Stump neuralgia
+994,995,C0553977,266237004,Acute and subacute bacterial endocarditis
+995,996,C1719788,421182009,Episodic ataxia type 1 (disorder)
+996,997,C0021831,85919009,Disorder of intestine
+997,998,C0029411,223726008,Pachydermoperiostosis of nail
+998,999,C0231586,80598009,Joint function disorder
+999,1000,C0233949,26587008,Sexual nondevelopment
+1000,1001,C0269664,33370009,Hyperemesis gravidarum before end of 22 week gestation with electrolyte imbalance
+1001,1002,C0393755,230483008,Headache associated with substance abuse or withdrawal
+1002,1003,C0405479,237460007,Disorder of nipple
+1003,1004,C3247203,200832000,Hydroa estivale
+1004,1005,C0036413,95323007,Scleredema (disorder)
+1005,1006,C0206064,233845001,Cardiac syndrome X
+1006,1007,C0271291,373423002,Corneal anesthesia (finding)
+1007,1008,C0348742,197543003,[X]Other specified diseases of anus and rectum
+1008,1009,C0393703,230422001,Myoclonic absence epilepsy
+1009,1010,C0270861,79267007,Retinal migraine
+1010,1011,C0392156,285145004,Akathisia (disorder)
+1011,1012,C0034372,11538006,Quadriplegia (disorder)
+1012,1013,C0264305,84160009,Laryngeal hemiplegia
+1013,1014,C0406301,238589009,Prurigo pigmentosa
+1014,1015,C0475522,200071001,Obstetric spinal and epidural anesthesia-induced headache
+1015,1016,C0032962,198881004,Pregnancy complications
+1016,1017,C0158231,202636008,"Joint disorder NOS, of shoulder region"
+1017,1018,C0343214,239958005,Painful arc syndrome
+1018,1019,C1274820,403473009,Penile sclerosing lipogranuloma
+1019,1020,C0031117,42658009,Disorder of the peripheral nervous system
+1020,1021,C0031117,302226006,Peripheral nerve disease
+1021,1022,C0030486,60389000,Paraplegia (disorder)
+1022,1023,C0264600,71941009,Neurologic voice disorder
+1023,1024,C0343970,240791003,Hepatic schistosomal granuloma
+1024,1025,C0477758,198547004,[X]Other specified disorders of urinary system
+1025,1026,C1282232,314549003,Diffuse episcleritis
+1026,1027,C1704421,46690002,Disorder of skin pigmentation
+1027,1028,C0263471,22818000,Granulosis rubra nasi
+1028,1029,C0271787,43507005,Adult myxedema
+1029,1030,C0275747,204919003,Erythematous pinta plaque
+1030,1031,C0393723,230448009,Writing epilepsy
+1031,1032,C2960211,446680006,Epidermoid cyst of skin of back
+1032,1033,C0085179,95416007,Eosinophilia myalgia syndrome
+1033,1034,C0264624,68489000,Vocal nodules in children
+1034,1035,C0268055,15707004,Hypercapnia with mixed acid-base disorder
+1035,1036,C0454609,229697008,Oral-verbal dyspraxia
+1036,1037,C1274903,403574001,Postmenopausal pruritus
+1037,1038,C0427164,250043000,High level sensorimotor gait disorder
+1038,1039,C1290143,111235007,Musculoskeletal disorder of the neck
+1039,1040,C0004509,425558002,Azoospermia (disorder)
+1040,1041,C0013369,19213003,Infectious diarrheal disease
+1041,1042,C0155959,196546001,Cyst of oral soft tissue
+1042,1043,C0270328,8702009,Diurnal only enuresis
+1043,1044,C0393618,267582006,Other specified myoclonus
+1044,1045,C0392550,1593000,Infantile hemiplegia
+1045,1046,C0015371,76349003,Extrapyramidal disease
+1046,1047,C0263964,35852003,Ganglion of aponeurosis
+1047,1048,C1331543,248451004,Postpartum fever
+1048,1049,C0085642,238772004,Livedo reticularis
+1049,1050,C0263342,79564001,"Urticaria pigmentosa, maculopapular type"
+1050,1051,C0264613,66034004,Nasal resonatory disorder
+1051,1052,C2939435,235630008,Hypertensive lower esophageal sphincter (disorder)
+1052,1053,C0033575,30281009,Disorder of prostate
+1053,1054,C0574715,297942002,Drug-induced erythema multiforme
+1054,1055,C1959864,426536006,Monoplegia of upper limb affecting non-dominant side
+1055,1056,C0009088,193031009,Cluster headache
+1056,1057,C0151824,102628000,Gallbladder pain
+1057,1058,C0264619,58239008,Posterior rhinolalia clausa
+1058,1059,C0340102,233709006,Toxic pulmonary edema
+1059,1060,C0042345,128060009,Venous varices
+1060,1061,C0042345,399989005,Phlebectasia
+1061,1062,C1275455,403387008,Lymphedema of penis
+1062,1063,C0004095,46640001,Accommodative asthenopia
+1063,1064,C0475521,193022009,Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+1064,1065,C1112639,403428002,Pseudocyst of ear
+1065,1066,C1542574,157141004,Physiological jaundice (& [NOS])
+1066,1067,C0162627,128936008,Bacterial infection of skin
+1067,1068,C0269099,33563008,Essential vulvodynia
+1068,1069,C1531394,157142006,Perinatal jaundice NOS
+1069,1070,C1253936,387637008,Effusion of joint
+1070,1071,C0015423,60113004,Disorder of eyelid
+1071,1072,C0238902,230482003,Carotidynia
+1072,1073,C0595865,216325001,Acquired hyperbilirubinemia (disorder)
+1073,1074,C0030846,33958003,Disorder of penis
+1074,1075,C1443290,408749000,"Complex regional pain syndrome, type II, lower limb"
+1075,1076,C1533040,415175000,Primary acquired melanosis of conjunctiva without atypia
+1076,1077,C1540606,155111000,(Retinal vascular occlusion) or (amaurosis fugax) or (retinal thrombosis)
+1077,1078,C0221152,111360009,Obstipation (disorder)
+1078,1079,C0263357,77300003,Erythema gyratum repens
+1079,1080,C0393669,193009001,Partial epilepsy with autonomic symptoms
+1080,1081,C0263630,24782002,Hypertrophic condition of skin
+1081,1082,C0270825,2198002,Visceral epilepsy
+1082,1083,C0393724,230449001,Tactile epilepsy
+1083,1084,C0520530,857002,Erythema simplex
+1084,1085,C0411277,240712006,Submammary intertrigo
+1085,1086,C0473778,276524004,Neonatal chloridorrhea
+1086,1087,C0595956,238813009,Drug exanthem
+1087,1088,C2004487,79012001,Vaginospasm (finding)
+1088,1089,C0401144,236062000,Vomiting - infective
+1089,1090,C0522255,103014001,Cervical nerve root pain
+1090,1091,C1290841,127341005,Acute nervous system disorder
+1091,1092,C0011849,73211009,Diabetes mellitus
+1092,1093,C0155171,193903002,Other conjunctival disorders
+1093,1094,C0458101,279016001,Cervicogenic headache
+1094,1095,C0155186,155176001,Other eyelid disorders
+1095,1096,C0278122,36550007,Crossed reflex
+1096,1097,C0338465,230314007,Sandifer syndrome (disorder)
+1097,1098,C0870082,26996000,Hyperkeratosis (morphologic abnormality)
+1098,1099,C2980106,201017004,Prurigo mitis
+1099,1100,C0311262,111354009,Chronic vascular insufficiency of intestine
+1100,1101,C0565822,267727004,Blind or low vision - both eyes
+1101,1102,C1997918,429266002,Sleep-related groaning
+1102,1103,C0271060,67638006,Pseudocyst of retina
+1103,1104,C0751362,193042000,Cataplexy and narcolepsy
+1104,1105,C1704330,105995000,Disorder of teeth AND/OR supporting structures
+1105,1106,C1282765,331987008,Mild dietary indigestion
+1106,1107,C1290877,128605003,Disorder of extremity
+1107,1108,C0233213,56160003,Hydrorrhea gravidarum
+1108,1109,C0410060,42786005,Snapping thumb syndrome
+1109,1110,C1277276,135860001,Exacerbation of backache
+1110,1111,C2363423,193217002,Other specific myoneural disorder (& [amyotonia congenita] or [Oppenheim's amyotonia] or [congenital benign hypotonia] or [floppy infant syndrome])
+1111,1112,C0015732,72042002,Incontinence of feces
+1112,1113,C0454590,229678008,Phonological dysgraphia
+1113,1114,C0553760,230617009,Lumbosacral plexus neuropathy
+1114,1115,C0264680,19057007,Status anginosus
+1115,1116,C0406329,200970002,Psoriasis palmaris
+1116,1117,C0574913,298128008,Perineal wart
+1117,1118,C1537218,200219001,Genital varices in pregnancy (& [vaginal] or [vulval])
+1118,1119,C2711743,441604003,Myoclonus associated with fever
+1119,1120,C0038220,230456007,Status epilepticus
+1120,1121,C0155796,48868008,Vulval varices
+1121,1122,C1282895,346138009,Neurologic unpleasant taste
+1122,1123,C0011432,13468005,Sensitive dentin
+1123,1124,C0270821,40816002,Retropulsion petit mal
+1124,1125,C0270855,44423001,Early myoclonic encephalopathy (disorder)
+1125,1126,C0338483,193039006,Complicated migraine
+1126,1127,C1304204,402416000,"Urticarial vasculitis with monoclonal IgM component, Schnitzler"
+1127,1128,C3263719,415172002,Primary acquired melanosis (disorder)
+1128,1129,C0574713,297940005,Drug-induced erythema nodosum
+1129,1130,C0586323,308742005,Alcohol withdrawal-induced convulsion
+1130,1131,C1868745,449769004,Numb chin syndrome
+1131,1132,C1960877,426187002,Stapedial myoclonus
+1132,1133,C0343741,240607002,Donovanosis - inguinal lesion
+1133,1134,C0033036,287057009,Atrial premature complex
+1134,1135,C0234534,58895005,Central convulsion
+1135,1136,C0234974,79348005,"Simple partial seizure, consciousness not impaired"
+1136,1137,C0454588,229676007,Language-related cognitive disorder
+1137,1138,C0686558,95194004,Nodular lymphoma of extranodal AND/OR solid organ site
+1138,1139,C1302789,400037008,Disorder of perianal skin
+1139,1140,C0006145,79604008,Disorder of breast
+1140,1141,C0026650,60342002,Movement disorder
+1141,1142,C0030567,49049000,Parkinson's disease
+1142,1143,C0234753,69017006,Cortical vertigo
+1143,1144,C0343729,240597001,Anal warts
+1144,1145,C0553587,192999003,Partial epilepsy with impairment of consciousness
+1145,1146,C1290072,128047003,Infectious disease of mucous membrane
+1146,1147,C1534916,139532000,(Disturbance of consciousness) or (faint/syncope/vasovagal symptom)
+1147,1148,C2937217,85225000,Cyst of nasal sinus (disorder)
+1148,1149,C0266105,90516007,Naso-labial cyst
+1149,1150,C0393727,230452009,Toothbrushing epilepsy
+1150,1151,C1290880,128137003,Disorder of lower leg (disorder)
+1151,1152,C2919808,445172009,Cholesterin granuloma of middle ear and mastoid
+1152,1153,C0029856,203848000,[X]Other synovitis and tenosynovitis
+1153,1154,C0156697,199027009,Hyperemesis gravidarum with metabolic disturbance - delivered
+1154,1155,C0311334,4619009,Generalized-onset seizures
+1155,1156,C0206042,83157008,Fatal familial insomnia
+1156,1157,C0392060,75111000,Painful ophthalmoplegia
+1157,1158,C0011606,396350005,Generalized exfoliative dermatitis
+1158,1159,C0267492,83976009,Granuloma of intestine
+1159,1160,C0270793,32162001,Facial hemiplegia
+1160,1161,C0406691,238992001,Drug-induced erythroderma
+1161,1162,C1561855,442292004,Idiopathic hypersomnia without long sleep time
+1162,1163,C0018989,127377003,Unilateral paresis
+1163,1164,C0042996,63144007,Vulvitis (disorder)
+1164,1165,C0152027,85972008,Sensory disorder
+1165,1166,C1290866,118943001,Disorder of pelvis
+1166,1167,C0015674,51771007,Postviral fatigue syndrome
+1167,1168,C1274380,402969008,Erythema nodosum due to streptococcal infection
+1168,1169,C1302854,400160003,Disorder of skin of upper limb
+1169,1170,C2035047,307357004,"Jacksonian, focal or motor epilepsy"
+1170,1171,C0021290,22925008,Neonatal disorder (disorder)
+1171,1172,C0340103,233710001,Chemical-induced pulmonary edema
+1172,1173,C0042251,25658005,Disorder of vagina
+1173,1174,C0234240,4448006,Allergic headache
+1174,1175,C1290884,128139000,Inflammatory disorder
+1175,1176,C0035309,29555009,Retinal disorder
+1176,1177,C0393680,193003000,Mesiobasal limbic epilepsy
+1177,1178,C0565878,274117006,Pregnancy and infectious disease
+1178,1179,C0278195,19593003,Movement partial seizure
+1179,1180,C0393700,230419003,Cryptogenic Lennox-Gastaut syndrome
+1180,1181,C0406330,200971003,Psoriasis plantaris
+1181,1182,C0015544,433476000,Failure to thrive in infant
+1182,1183,C0015544,54840006,Failure to thrive
+1183,1184,C0267545,85187004,Tympanites of cecum
+1184,1185,C0456043,276587008,Perinatal neurological disorder
+1185,1186,C0700201,44186003,Dyssomnia
+1186,1187,C0036323,10087007,Infection by Schistosoma
+1187,1188,C0042420,398652001,Vasovagal attack
+1188,1189,C0155965,196594002,Other specified tongue conditions NOS
+1189,1190,C0155965,196591005,Other specified tongue conditions
+1190,1191,C0406534,200924009,Erythema vesiculosum
+1191,1192,C0154702,80420005,Monoplegia of lower limb
+1192,1193,C0235238,68158006,Cycloplegia
+1193,1194,C0349493,276678006,Umbilical sepsis
+1194,1195,C0151532,95640005,Disorder of brain stem
+1195,1196,C0263577,78631004,Erythromelanosis follicularis of face AND/OR neck
+1196,1197,C2239278,155497009,(Acute nasopharyngitis) or (common cold) or (acute coryza) or (acute rhinitis) or (sniffles) or (snuffles)
+1197,1198,C0406698,110284009,Drug-induced pigmentation
+1198,1199,C2960769,447102007,Cholesterin granuloma of mastoid
+1199,1200,C0268005,276633008,Hypotonic disorder
+1200,1201,C0472351,230408001,Localization-related cryptogenic epilepsy
+1201,1202,C2919641,445612002,Postrenal azotemia
+1202,1203,C0266837,25959004,Endemic colic
+1203,1204,C0267977,87091005,Semi-starvation
+1204,1205,C0271240,22950006,Blindness of one eye
+1205,1206,C0278085,37001003,Bradylalia
+1206,1207,C0153024,17974002,Post-herpetic trigeminal neuralgia
+1207,1208,C0267517,30993009,Enterospasm
+1208,1209,C1274285,402846006,Neonatal cutis marmorata
+1209,1210,C1285333,363171009,Inflammation of specific body systems
+1210,1211,C1576410,200953005,(Other erythematous conditions NOS) or (granuloma annulare)
+1211,1212,C0005937,203467005,Solitary bone cyst
+1212,1213,C0022541,51464001,Oculocraniosomatic syndrome
+1213,1214,C0271509,36543008,Echo diplacusis
+1214,1215,C0343200,239938009,Giant cell arteritis with polymyalgia rheumatica
+1215,1216,C3266155,449890002,Functional abdominal pain syndrome
+1216,1217,C0162429,70241007,Nutritional deficiency
+1217,1218,C0232705,386710007,Neurogenic incontinence
+1218,1219,C0232705,386707000,Idiopathic fecal incontinence
+1219,1220,C0393677,230388003,Benign occipital epilepsy of childhood - late onset variant
+1220,1221,C0456052,276597004,Fifth day fits
+1221,1222,C0010269,23096007,Cranial neuralgia
+1222,1223,C0016399,82401000,Simple partial seizure with motor dysfunction
+1223,1224,C0020758,13059002,Congenital ichthyosis of skin
+1224,1225,C0578159,301469002,Antibiotic-associated diarrhea
+1225,1226,C1299436,371808007,Recurrent angina after percutaneous transluminal coronary angioplasty
+1226,1227,C2315264,430097009,Constipation due to spasm of colon
+1227,1228,C0014547,230381009,Localization-related epilepsy
+1228,1229,C0157731,267807006,Other specified nail disease NOS
+1229,1230,C0157731,201115009,Other specified nail disease
+1230,1231,C0270830,246533006,Simple partial seizure with somatosensory or special sensory dysfunction
+1231,1232,C0341858,198247003,Endometriosis interna
+1232,1233,C0393684,230396008,Cingulate epilepsy
+1233,1234,C0494559,232297009,Disorder of inner ear
+1234,1235,C1141936,129576003,Purple glove syndrome
+1235,1236,C1642392,419025007,T-cell pseudolymphomatous lesion
+1236,1237,C1720416,420932006,Episodic ataxia type 2
+1237,1238,C0019125,111536009,Hematotympanum
+1238,1239,C0269977,86196005,Disorder of breast associated with childbirth
+1239,1240,C0020451,19569008,Mild hyperemesis gravidarum
+1240,1241,C0155358,194148005,Other scleral disorders NOS
+1241,1242,C0232065,7688001,Ether apnea
+1242,1243,C0393729,230454005,Aquagenic epilepsy
+1243,1244,C1579022,195196001,(Drop attack) or (transient cerebral ischemia) or (vertebro-basilar insufficiency)
+1244,1245,C0267509,82934008,Chronic idiopathic constipation
+1245,1246,C0340288,233819005,Stable angina (disorder)
+1246,1247,C0341286,235717000,Food intolerance NEC
+1247,1248,C0393714,230440002,Secondary reading epilepsy
+1248,1249,C0472355,230435005,Epilepsy undetermined whether focal or generalized
+1249,1250,C0007862,35635000,Cervicobrachial neuralgia
+1250,1251,C0393693,230411000,Benign non-familial neonatal convulsions
+1251,1252,C0014740,69588003,Erythema chronica migrans
+1252,1253,C0029819,198591004,[X]Other specified noninflammatory disorders of vagina
+1253,1254,C0270750,37960002,Sanger-Brown cerebellar ataxia
+1254,1255,C0585561,307693006,Vertical myoclonus
+1255,1256,C1272174,390843008,Scotopic sensitivity
+1256,1257,C0393620,230344005,Post-anoxic myoclonus
+1257,1258,C1399352,443094001,Paroxysmal hemicrania
+1258,1259,C0152135,69763009,Exophthalmic ophthalmoplegia
+1259,1260,C0242354,66091009,Congenital disease
+1260,1261,C0393674,230385000,Epilepsy with recurrent unilateral seizures in children
+1261,1262,C0085417,407675009,Complex partial epileptic seizure
+1262,1263,C0158227,202629007,Other specified joint disorders of the lower leg
+1263,1264,C0278110,404689008,Alternating hemiplegia
+1264,1265,C0393732,230458008,Non-convulsive status epilepticus without three per second spike wave
+1265,1266,C0042994,5089007,Disorder of vulva
+1266,1267,C0158292,12820001,Disorder of sacrum
+1267,1268,C0263656,56270008,Surfer's nodules
+1268,1269,C0454548,229638001,Hyperkinetic aphonia
+1269,1270,C0750949,398997008,Vertebrogenic pain syndrome
+1270,1271,C1536458,156431004,(Urticaria NOS) or (hives) or (pachydermia)
+1271,1272,C0022353,387712008,Neonatal jaundice
+1272,1273,C0085623,33994004,Akinesia
+1273,1274,C0546393,111032003,Macular cutaneous amyloidosis
+1274,1275,C0745890,408662006,Reflex sympathetic dystrophy of lower extremity
+1275,1276,C1571826,190517002,(Virilism) or (adrenogenital virilisation) or (pseudohermaphrodite female with adrenocortical disorder)
+1276,1277,C0154728,15758002,Disorder of meninges
+1277,1278,C0276478,64679001,Coronaviral calf diarrhea
+1278,1279,C1301339,397318008,Extraovarian endometriosis
+1279,1280,C1578956,201267004,(Other specified urticaria) or (nettle rash)
+1280,1281,C0155104,18377001,Anterior corneal pigmentation
+1281,1282,C0267658,82047000,Diarrhea due to alcohol intake
+1282,1283,C0393602,230322000,Isolated cervical dystonia
+1283,1284,C0393690,230403005,Parietal lobe epilepsy
+1284,1285,C0553565,4654002,Posteruptive color change of tooth
+1285,1286,C0560922,240713001,Candidiasis of finger web
+1286,1287,C1274960,403638003,Acral erythema due to cytotoxic therapy
+1287,1288,C0010488,35543003,Cutaneous endometriosis
+1288,1289,C0087012,129609000,Spinocerebellar ataxia
+1289,1290,C0264625,57355001,Vocal nodules in adults
+1290,1291,C1269791,371409005,Disorder of eye region
+1291,1292,C0406541,238818000,Non-bullous erythema multiforme
+1292,1293,C0458220,95670000,Nervus intermedius neuralgia
+1293,1294,C1304407,402655006,Necrotizing cutaneous vasculitis
+1294,1295,C0007222,49601007,Disorder of cardiovascular system
+1295,1296,C0155093,4873000,Localized vascularization of cornea
+1296,1297,C0264675,61490001,"Angina, class I"
+1297,1298,C1959853,426218005,Tendinitis of flexor hallucis longus
+1298,1299,C0149940,52585001,Sciatic neuropathy
+1299,1300,C0423086,103262002,Staring (finding)
+1300,1301,C1535054,155567003,(Simple chronic bronchitis) or (smoker's cough) or (senile tracheobronchitis)
+1301,1302,C1579723,203118000,"(Neuralgia, neuritis or radiculitis NOS) or (policeman's disease)"
+1302,1303,C0031256,423716004,Petechiae of skin
+1303,1304,C0157669,200458009,Other disorder of lactation NOS
+1304,1305,C0263322,81487000,Erythema iris
+1305,1306,C0409781,202442002,Villonodular synovitis of distal interphalangeal joint of finger
+1306,1307,C1290611,128284006,Chronic digestive system disorder
+1307,1308,C0267558,65979008,Drug AND/OR toxin-induced diarrhea
+1308,1309,C0278117,20940004,Spinal hemiparesis
+1309,1310,C0278203,60338000,Partial seizure with multiple symptoms
+1310,1311,C0347868,307324001,Spastic foot
+1311,1312,C0033139,3972004,Primary insomnia
+1312,1313,C0263213,62248006,Juvenile pyoderma
+1313,1314,C0268979,89921006,Infertility due to complete spermatogenic arrest
+1314,1315,C0566748,289316000,Umbilical cord problem
+1315,1316,C1960869,426788002,Vertigo as late effect of stroke
+1316,1317,C0151744,414545008,Ischemic heart disease
+1317,1318,C0743381,426634003,Eclamptic seizure
+1318,1319,C0043352,87715008,Aptyalism
+1319,1320,C0086666,4557003,Preinfarction syndrome
+1320,1321,C0267032,1826005,Granuloma of lip
+1321,1322,C0423738,62647006,Painful spasm of anus
+1322,1323,C0234527,53863007,Motor apraxia
+1323,1324,C0393615,192840004,Benign familial tremor
+1324,1325,C1298989,372441001,Seizures complicating infection in the newborn
+1325,1326,C0272268,68312001,Cold erythema associated with cold agglutinins
+1326,1327,C0340851,234164004,Malignant vasovagal syndrome
+1327,1328,C0348626,195587008,[X]Other specified cardiac arrhythmias
+1328,1329,C0424734,248413004,Liver palms
+1329,1330,C1277670,315258003,Crusting of pigmented skin lesion
+1330,1331,C1827974,425349008,Refractory parietal lobe epilepsy
+1331,1332,C0263426,86425006,Ulerythema
+1332,1333,C0267437,49237006,Allergic diarrhea
+1333,1334,C0393715,230441003,Drug-induced epilepsy
+1334,1335,C0453878,228145007,Impairment of speech form
+1335,1336,C0454589,229677003,Deep dysgraphia
+1336,1337,C1274949,403627003,Non-melanin pigmentation due to drug
+1337,1338,C2315536,430725003,Patellofemoral stress syndrome
+1338,1339,C0014556,193000002,Temporal lobe epilepsy
+1339,1340,C0034544,82473003,Radiculitis (disorder)
+1340,1341,C0155402,41663005,Disorder of pinna
+1341,1342,C0393771,271793004,Irregular sleep-wake pattern
+1342,1343,C0405082,199022003,Mild hyperemesis-delivered
+1343,1344,C0426970,249852005,Spastic quadriplegia
+1344,1345,C0268317,75066002,Chronic cholestatic jaundice syndrome
+1345,1346,C0269106,55850004,Endosalpingiosis
+1346,1347,C0027438,123952009,Disorder of nasopharynx
+1347,1348,C0406299,238587006,Chronic prurigo
+1348,1349,C0154830,59276001,Proliferative diabetic retinopathy (disorder)
+1349,1350,C0155170,193901000,Conjunctival cyst
+1350,1351,C0406238,238546005,Pruriginous atopic dermatitis
+1351,1352,C0042075,41368006,Disorder of urinary tract
+1352,1353,C0155089,17157001,Diffuse interstitial keratitis
+1353,1354,C0311335,13973009,Grand mal status
+1354,1355,C0472350,230406002,Localization-related symptomatic epilepsy with specific precipitant
+1355,1356,C0586323,361267005,Alcohol-related fit
+1356,1357,C1263748,123755001,Diffuse pyelonephritis
+1357,1358,C0154731,43763009,Glossopharyngeal neuralgia
+1358,1359,C0238111,230418006,Lennox-Gastaut syndrome (disorder)
+1359,1360,C0271216,68777001,Impairment level of both eyes
+1360,1361,C0033036,284470004,Premature atrial contraction
+1361,1362,C0154739,193122007,Other nerve root or plexus disorder
+1362,1363,C0154739,194508006,[X]Other nerve root and plexus disorders
+1363,1364,C0341021,235071003,Oral erythematous candidiasis
+1364,1365,C0452138,194424005,"Sensorineural hearing loss, bilateral"
+1365,1366,C0521667,95659007,Hindbrain hernia headache
+1366,1367,C1540374,197496009,(Intolerance NEC: [fat] or [food] or [milk]) or (malabsorption NOS: [syndrome] or [other gastrointestinal tract])
+1367,1368,C1565172,449814007,Trigeminal autonomic cephalalgia
+1368,1369,C0029546,197314007,Other non-alcoholic chronic liver disease
+1369,1370,C0029546,197322000,Other non-alcoholic chronic liver disease NOS
+1370,1371,C0271510,2724004,Recruitment
+1371,1372,C0454533,229621000,Disorder of fluency
+1372,1373,C1827284,425054007,Refractory occipital lobe epilepsy
+1373,1374,C0264201,41624003,Segmental dysfunction
+1374,1375,C0393713,230439004,Epilepsy with continuous spike wave during slow-wave sleep
+1375,1376,C0262995,58921009,Diffuse dermatitis
+1376,1377,C0267172,49206006,Habit vomiting (disorder)
+1377,1378,C0269111,64286001,Endometriosis of the cul-de-sac
+1378,1379,C0270997,62619007,Ill-defined disorder of eye
+1379,1380,C0014805,403390002,Primary erythromelalgia
+1380,1381,C0043046,288517002,Wasting disease
+1381,1382,C0338478,230427007,Cryptogenic myoclonic epilepsy
+1382,1383,C0341353,235771005,Appendix mass
+1383,1384,C0152197,86266009,Total internal ophthalmoplegia
+1384,1385,C0162296,35678005,Multiple joint pain
+1385,1386,C0276577,13556003,AIDS with hepatomegaly
+1386,1387,C0423682,279040009,Mechanical low back pain
+1387,1388,C1301398,397401005,Disorder of neonatal umbilicus
+1388,1389,C0338489,230467008,Status migrainosus
+1389,1390,C0702143,1534008,Palsy of conjugate gaze
+1390,1391,C0042033,12011009,Female urinary-genital tract fistula
+1391,1392,C0152216,62176008,Esophoria (disorder)
+1392,1393,C0340854,234167006,Situational syncope
+1393,1394,C0015674,52702003,Chronic fatigue syndrome
+1394,1395,C0038870,175004,Supraorbital neuralgia
+1395,1396,C0393681,230392005,Rhinencephalic epilepsy
+1396,1397,C0581287,213338000,Erythema at injection site
+1397,1398,C1960709,425936006,Intractable ophthalmic migraine
+1398,1399,C0014553,230413002,Juvenile absence epilepsy
+1399,1400,C0030353,423341008,Optic disc edema
+1400,1401,C0085096,400047006,Peripheral vascular disease
+1401,1402,C0393614,230341002,Isolated vocal tremor
+1402,1403,C0564774,286993001,Dysmenorrhea - non-psychogenic
+1403,1404,C0036454,23388006,Visual field scotoma
+1404,1405,C0393692,39745004,Chronic progressive epilepsia partialis continua
+1405,1406,C1274856,403510002,Lupus erythematosus-associated urticarial vasculitis
+1406,1407,C0001314,2704003,Acute disease
+1407,1408,C1274605,403209006,Familial actinic prurigo
+1408,1409,C1274932,403608009,Serum sickness due to drug
+1409,1410,C0042331,193030005,Migraine variants
+1410,1411,C0232710,31499008,Chronic constipation with overflow
+1411,1412,C0234170,44842005,General areflexia
+1412,1413,C0452200,206572008,Neonatal withdrawal symptoms from maternal use of drugs of addiction
+1413,1414,C1827389,422513000,"Epilepsy, not refractory"
+1414,1415,C0340164,181225007,Bilateral hilar adenopathy syndrome
+1415,1416,C0393683,230395007,Supplementary motor epilepsy
+1416,1417,C0411024,240310001,Grunting baby
+1417,1418,C1959865,426943005,Hypersomnia disorder related to menstruation
+1418,1419,C0023533,237101004,Leukorrhea (finding)
+1419,1420,C0036323,105661001,Disease due to Schistosomatidae
+1420,1421,C0276014,72054002,Gummatous osteitis of yaws
+1421,1422,C0264612,90662007,Dysprosody of 'pseudoforeign dialect'
+1422,1423,C0264681,21470009,Syncope anginosa
+1423,1424,C0268318,235888006,Cholestasis of pregnancy (disorder)
+1424,1425,C1275040,403720005,PUVA-induced pruritus
+1425,1426,C0028432,89488007,Disorder of the nose
+1426,1427,C0152097,48475001,Disorder of diaphragm
+1427,1428,C0153136,187350002,"[X]Other late congenital syphilis, symptomatic"
+1428,1429,C0519012,155029008,(Hemiplegia) or (hemiparesis)
+1429,1430,C0234507,20930002,Anosognosia
+1430,1431,C0267518,1045000,Colonospasm (disorder)
+1431,1432,C0270743,16171003,Double athetosis
+1432,1433,C0278186,87185006,Long atonic seizure
+1433,1434,C0343836,82074004,Achromic skin lesions of pinta
+1434,1435,C0406536,267801007,Other erythematous conditions NOS
+1435,1436,C1300028,373673007,Disorder characterized by pain
+1436,1437,C0233444,10361001,Exhaustion delirium
+1437,1438,C0162835,18655006,Depigmentation
+1438,1439,C0343065,7632005,Dermatographic urticaria
+1439,1440,C1274933,403609001,Drug-induced Stevens-Johnson syndrome
+1440,1441,C0024248,234110002,Lymph cyst
+1441,1442,C0393604,230324004,Isolated blepharospasm
+1442,1443,C1274939,403617009,Drug-induced erythema
+1443,1444,C1997771,429428003,Chronic hypercapnia
+1444,1445,C0037769,28055006,West syndrome
+1445,1446,C0454550,229640006,Hyperfunctional aphonia
+1446,1447,C1533847,75047002,Disorder of skeletal muscle
+1447,1448,C0028738,563001,Nystagmus (disorder)
+1448,1449,C0041309,66986005,Tuberculosis of skin
+1449,1450,C0349255,192454004,Nonorganic insomnia
+1450,1451,C0393733,230459000,Non-convulsive simple partial status epilepticus
+1451,1452,C0393960,230702001,Lacunar ataxic hemiparesis
+1452,1453,C0151594,95545007,Hemorrhagic diarrhea
+1453,1454,C0156344,266589005,Endometriosis of ovary
+1454,1455,C1527351,72274001,Nerve root disorder
+1455,1456,C0451714,197367007,Hepatic granulomas in berylliosis
+1456,1457,C0546878,18191000,Salaam spasm
+1457,1458,C2711445,441724008,Tension hydrothorax
+1458,1459,C0002418,387742006,Amblyopia (disorder)
+1459,1460,C0032962,90821003,Complication related to pregnancy
+1460,1461,C0231767,4063001,Achillodynia
+1461,1462,C0263351,42570001,Pruritus senilis
+1462,1463,C0521801,95838002,Pulmonary cyanosis
+1463,1464,C0393738,230471006,Chronic tension-type headache
+1464,1465,C0752196,426592006,Ballism
+1465,1466,C1534965,193860001,(Acute mucopurulent conjunctivitis) or (sticky eye)
+1466,1467,C0042376,128187005,Vascular headache
+1467,1468,C0264632,84011002,Mutational falsetto
+1468,1469,C0269663,87621000,Hyperemesis gravidarum before end of 22 week gestation with dehydration
+1469,1470,C0278116,1670004,Cerebral hemiparesis
+1470,1471,C0458224,129179000,Piriformis syndrome (disorder)
+1471,1472,C1290379,128487001,Acute disease of cardiovascular system
+1472,1473,C0013447,25906001,Disorder of ear
+1473,1474,C0032772,17111003,Postinfectious neuralgia
+1474,1475,C0271490,89537006,Diffuse labyrinthitis
+1475,1476,C0473132,39963006,Toddler diarrhea
+1476,1477,C0393587,230309008,Kinesiogenic choreoathetosis
+1477,1478,C0748355,373895009,Acute respiratory distress
+1478,1479,C1561892,418955009,Organic sleep disorder
+1479,1480,C0086588,29740003,Nutritional marasmus
+1480,1481,C0004509,48188009,Azoospermia (finding)
+1481,1482,C0270757,53194005,Posthemiplegic athetosis
+1482,1483,C0025517,75934005,Metabolic disease
+1483,1484,C0025517,30390004,Generalized metabolic disorder
+1484,1485,C0085417,361123003,Psychomotor epilepsy
+1485,1486,C0152251,58767000,Toxic erythema (disorder)
+1486,1487,C0269102,103678008,Endometriotic cyst
+1487,1488,C0276572,422177004,Dyspnea associated with AIDS
+1488,1489,C0278113,55637002,Spinal hemiplegia
+1489,1490,C0340857,234170005,Deglutition syncope
+1490,1491,C0852271,363219007,Neonatal gastrointestinal disorder
+1491,1492,C1274942,403620001,Erythroderma due to vancomycin
+1492,1493,C0394013,230788000,Congenital receptive dysphasia
+1493,1494,C0575031,298253002,Cervical facet joint pain
+1494,1495,C0034931,128079007,"Complex regional pain syndrome, type I"
+1495,1496,C0034931,2103002,Shoulder-hand syndrome
+1496,1497,C0263978,19660004,Disorder of soft tissue
+1497,1498,C0392571,63385005,Impairment level: better eye: moderate impairment: lesser eye: not further specified
+1498,1499,C1410262,413101007,Stress-induced epilepsy
+1499,1500,C0026618,30265004,Dental fluorosis
+1500,1501,C0156098,196790008,Other diseases of appendix NOS
+1501,1502,C0158319,21409006,Enthesopathy of ankle AND/OR tarsus
+1502,1503,C0751383,61663001,Juvenile neuronal ceroid lipofuscinosis
+1503,1504,C1265579,125118008,Exfoliative erythema
+1504,1505,C1540722,154927001,Sleep disorders (& [insomnia] or [nightmares] or [sleepwalking (& somnambulism)])
+1505,1506,C0031121,25416002,Peripheral neuralgia
+1506,1507,C0342962,238154003,Severe systemic illness-induced skeletal muscle wasting
+1507,1508,C0023895,235856003,Disease of liver
+1508,1509,C0024530,248437004,Malarial fever
+1509,1510,C0343267,203493003,Algodystrophy of hand
+1510,1511,C0393688,230400008,Opercular epilepsy
+1511,1512,C0406875,239209004,Tissue expander disorder
+1512,1513,C0423690,247369005,Facet joint pain
+1513,1514,C1278535,314116003,Post infarct angina
+1514,1515,C1290876,118937003,Disorder of lower extremity
+1515,1516,C1563321,196580003,Mouth: [mucocele] or [discomfort] or [soft tissue diseases NOS]
+1516,1517,C2959868,447146004,Verruca vulgaris of skin of lower extremity
+1517,1518,C0036093,10890000,Disorder of salivary gland
+1518,1519,C2711235,442168001,Retardation of physical development
+1519,1520,C0040128,14304000,Disorder of thyroid gland
+1520,1521,C0150055,82423001,Chronic pain (finding)
+1521,1522,C0242225,367469000,Color vision deficiency
+1522,1523,C0343042,238453003,Maculae ceruleae
+1523,1524,C0004606,390834004,Nonproliferative diabetic retinopathy (disorder)
+1524,1525,C0085273,34730008,Erythema infectiosum
+1525,1526,C0263353,63501000,Prurigo nodularis (disorder)
+1526,1527,C0270218,111471006,Perinatal jaundice from causes classified elsewhere
+1527,1528,C0270831,72103000,Simple partial seizure with special sensory symptoms
+1528,1529,C0338490,230468003,Migraine with ischemic complication
+1529,1530,C0457000,277794000,Neonatal annular erythema
+1530,1531,C1290145,128049000,Disorder of cervical spine (disorder)
+1531,1532,C1827052,423683008,Refractory migraine with aura
+1532,1533,C1299608,371044001,Transient respiratory distress with sepsis
+1533,1534,C0154753,155079006,Other mononeuritis lower limb
+1534,1535,C1535388,199020006,Morning sickness (& [mild hyperemesis gravidarum])
+1535,1536,C0031736,367484009,Polymorphous light eruption
+1536,1537,C0156084,386211005,Disorder of function of stomach
+1537,1538,C0231644,89638008,Xiphodynia
+1538,1539,C1443291,408750000,"Complex regional pain syndrome, type II, upper limb"
+1539,1540,C0553642,396333008,Non-articular rheumatism
+1540,1541,C0276726,80890005,Cutaneous sporotrichosis
+1541,1542,C0343755,422003001,Cachexia associated with AIDS
+1542,1543,C1827396,422527005,Refractory infantile spasms
+1543,1544,C0009663,240542006,Condyloma acuminatum
+1544,1545,C0039621,10629009,Tetany (disorder)
+1545,1546,C0156348,53913001,Endometriosis in scar of skin
+1546,1547,C0404559,266607004,Perimenopausal disorder
+1547,1548,C0438418,193010006,Visual reflex epilepsy
+1548,1549,C1274149,402699002,Chondrodermatitis nodularis (disorder)
+1549,1550,C0393682,230393000,Lateral temporal epilepsy
+1550,1551,C0015634,18690003,Farmers' lung
+1551,1552,C0029594,190822009,Other disorder of plasma protein metabolism
+1552,1553,C0234517,48257004,Anarthria
+1553,1554,C0271405,50801008,Vitreous liquifaction (disorder)
+1554,1555,C0276584,89565008,AIDS with malaise
+1555,1556,C0040409,69244009,Disorder of tongue
+1556,1557,C0085580,59621000,Essential hypertension
+1557,1558,C0152110,85007004,Meralgia paresthetica (disorder)
+1558,1559,C0333997,128863005,Lymphoid hyperplasia
+1559,1560,C0751406,15743005,Posttraumatic osteoporosis
+1560,1561,C1313963,398570005,Diarrhea due to staphylococcus
+1561,1562,C1571960,155010002,(Spinocerebellar disease) or (cerebellar ataxia) or (cerebellar disease)
+1562,1563,C0029790,197510002,[X]Other specified disorders of teeth and supporting structures
+1563,1564,C0406688,238988008,Psoriasiform drug eruption
+1564,1565,C1299435,371806006,Progressive Angina (disorder)
+1565,1566,C0038325,73442001,Stevens-Johnson syndrome
+1566,1567,C0085543,193017009,Kojevnikov's epilepsy
+1567,1568,C0267556,2946003,Osmotic diarrhea
+1568,1569,C1285471,363343008,Hereditary disorder of the visual system
+1569,1570,C0029805,201088002,Other specified atrophic and hypertrophic conditions of skin NOS
+1570,1571,C0276573,73266005,AIDS with fatigue
+1571,1572,C0278201,73840001,Ideational partial seizure
+1572,1573,C0342100,237462004,Nipple infection
+1573,1574,C0393746,230478000,Low pressure headache
+1574,1575,C0042798,246635007,Dim vision
+1575,1576,C0266104,64268004,Median palatal cyst
+1576,1577,C0270759,5822000,Athetosis with spastic paraplegia
+1577,1578,C0405080,199025001,Hyperemesis gravidarum with metabolic disturbance
+1578,1579,C0042454,229727006,Velopharyngeal inadequacy
+1579,1580,C0042454,278714002,Velopharyngeal insufficiency
+1580,1581,C0234538,9112001,Puerperal convulsion
+1581,1582,C0393735,230461009,Headache disorder
+1582,1583,C0029581,266346007,Other nasal cavity and sinus disease
+1583,1584,C0393717,230443000,Narcotic withdrawal epilepsy
+1584,1585,C0158225,202627009,Other specified joint disorders of the hand
+1585,1586,C0406300,238588001,Dermographic prurigo
+1586,1587,C1299437,371809004,Recurrent angina after coronary stent placement
+1587,1588,C1960276,425739008,Brainerd diarrhea
+1588,1589,C1274749,403389006,Postmenopausal flushing
+1589,1590,C1971759,156113005,Vomiting in pregnancy (& [excess] or [hyperemesis gravidarum] or [morning sickness])
+1590,1591,C2919725,445137006,Accumulation of bile in abdominal cavity
+1591,1592,C0347942,271839005,Sphincter ani incontinence
+1592,1593,C1275488,419735006,Scaling eczema
+1593,1594,C0002963,87343002,Prinzmetal angina
+1594,1595,C0263589,18869009,Chlorpromazine pigmentation
+1595,1596,C1446219,413100008,Akinetic rigid syndrome
+1596,1597,C0393484,230191005,Rasmussen syndrome
+1597,1598,C2316074,430940009,Disorder of glenohumeral joint
+1598,1599,C0009373,128524007,Disorder of colon
+1599,1600,C0266919,45676007,Gingival polyp
+1600,1601,C0340850,234163005,Neurally-mediated syncope
+1601,1602,C0232711,11003002,Nervous diarrhea
+1602,1603,C0236048,87252009,Gastric polyposis
+1603,1604,C1960870,427419006,Transformed migraine
+1604,1605,C1997249,427972000,Pudendal neuralgia
+1605,1606,C0154836,193366002,Other intraretinal microvascular abnormality (disorder)
+1606,1607,C0456750,95815000,Central positional vertigo
+1607,1608,C0014518,23067006,"Lyell's toxic epidermal necrolysis, subepidermal type"
+1608,1609,C0079035,421869004,Bradyarrhythmia
+1609,1610,C0406298,238586002,Subacute prurigo
+1610,1611,C1321575,246529004,Simple partial seizure with focal motor signs with march
+1611,1612,C0270846,189198006,Epileptic drop attack
+1612,1613,C0275983,407373009,Bovine coronoviral diarrhea
+1613,1614,C0349698,278695009,Aspirated blood in lower respiratory tract
+1614,1615,C0473133,236077008,Protracted diarrhea
+1615,1616,C1274332,402906004,Viral wart on lip
+1616,1617,C0154678,155003008,Other extrapyramidal disease and abnormal movement disorders (disorder)
+1617,1618,C1996989,428867008,Diarrhea due to drug
+1618,1619,C0013677,285588004,Nutrition deficiency due to insufficient food
+1619,1620,C0015300,18265008,Exophthalmos (disorder)
+1620,1621,C0264620,11536005,Anterior rhinolalia clausa
+1621,1622,C0270708,29702001,Aphasia-left parietal lobe syndrome
+1622,1623,C0311267,65328007,Hill diarrhea
+1623,1624,C0406138,238410003,Staphylococcal intertrigo
+1624,1625,C0424291,277850002,Diogenes syndrome
+1625,1626,C0459146,280128006,Disorder of soft tissue of body cavity
+1626,1627,C0729771,312422001,Infective pharyngitis (disorder)
+1627,1628,C0271187,9428001,Refractive polyopia
+1628,1629,C2919930,445120004,Uremia due to inadequate renal perfusion
+1629,1630,C2960589,446985003,Verruca vulgaris of skin of cheek
+1630,1631,C0007761,73495003,Dyssynergia cerebellaris myoclonica
+1631,1632,C0341017,235064008,Syphilitic gumma of oral cavity
+1632,1633,C1828175,422873003,Refractory epilepsia partialis continua
+1633,1634,C0014742,36715001,Erythema multiforme
+1634,1635,C0030286,3855007,Disorder of pancreas
+1635,1636,C0220669,230410004,Benign neonatal familial convulsions
+1636,1637,C0234533,246545002,Generalized seizure
+1637,1638,C0267771,69559004,Retroperitoneal mass
+1638,1639,C0025209,414662006,Melanosis (disorder)
+1639,1640,C2315519,430535006,Acute renal failure with oliguria
+1640,1641,C0158053,63643000,Derangement of knee (disorder)
+1641,1642,C0701163,267395000,Adrenogenital disorder
+1642,1643,C1304463,403176008,Acute edema - cutaneous distension syndrome
+1643,1644,C0221385,64102008,Syphilitic gumma (disorder)
+1644,1645,C0231657,79699005,Snapping scapula
+1645,1646,C0234143,41786007,Neurological muscle weakness
+1646,1647,C0277526,46799006,Dysenteric diarrhea
+1647,1648,C0393901,230651008,Disorders of spinal neurones manifest by hyperactivity
+1648,1649,C0400875,235832002,Hollow visceral neuropathy
+1649,1650,C0406044,267803005,Other pruritic conditions NOS
+1650,1651,C2316756,433081000,Organic amnesia of language
+1651,1652,C0029827,187121003,Other specified schistosoma NOS
+1652,1653,C0393731,230457003,Non-convulsive status epilepticus with three per second spike wave
+1653,1654,C1274972,403650009,Stellate pseudoscars due to corticosteroids
+1654,1655,C0263660,312225001,Musculoskeletal and connective tissue disorder
+1655,1656,C0020555,271607001,Excessive hair growth
+1656,1657,C0033772,43118004,Prurigo papule
+1657,1658,C0393699,230417001,Symptomatic West syndrome
+1658,1659,C0458167,279048002,Internal mammary artery syndrome
+1659,1660,C1304478,403383007,Lymphedema of lip
+1660,1661,C0007863,71760005,Cervico-occipital neuralgia
+1661,1662,C0014130,362969004,Disorder of endocrine system
+1662,1663,C0042268,198212006,Vaginitis and vulvovaginitis (disorder)
+1663,1664,C0234497,26610007,Amusia
+1664,1665,C0393640,230359004,Secondary amyloid encephalopathy
+1665,1666,C0403660,8137003,Non-organic primary enuresis
+1666,1667,C1275974,400146000,Splenic hamartoma
+1667,1668,C0264886,44808001,Conduction disorder of the heart (disorder)
+1668,1669,C0476214,272038003,C/O - postviral syndrome
+1669,1670,C0001396,46935006,Stokes-Adams syndrome
+1670,1671,C0005937,203465002,Bone cyst
+1671,1672,C0158233,202638009,"Joint disorder NOS, of the forearm"
+1672,1673,C0267206,18935007,Isolated idiopathic granuloma of stomach
+1673,1674,C0454630,229723005,Restricted sound system
+1674,1675,C0687754,276549000,Transient neonatal hyperbilirubinemia
+1675,1676,C0740441,409966000,Acute diarrhea
+1676,1677,C1546197,155404005,(Transient ischaemic attacks) or (vertebro-basilar insufficiency) or (drop attacks)
+1677,1678,C1546197,155404005,(Transient ischemic attacks) or (vertebro-basilar insufficiency) or (drop attacks)
+1678,1679,C0006261,41427001,Disorder of bronchus
+1679,1680,C0029785,198558008,[X]Other specified disorders of penis
+1680,1681,C0155503,38403006,Vertigo of central origin
+1681,1682,C0263658,34835007,Picker's nodules
+1682,1683,C0393719,230445007,Nocturnal epilepsy
+1683,1684,C3249881,255320000,Infection - suppurative
+1684,1685,C0155936,266418006,Gingival and periodontal disease
+1685,1686,C0242078,232073009,Angiomatosis of retina
+1686,1687,C0264003,30173002,Primary fibrositis
+1687,1688,C0264622,275472008,Psychogenic dysphonia
+1688,1689,C0277528,11840006,Traveler's diarrhea
+1689,1690,C0002453,14302001,Amenorrhea (finding)
+1690,1691,C1960676,427111000,Non-epileptic myoclonus
+1691,1692,C0263427,51057008,Ulerythema of cheeks
+1692,1693,C0276468,79800001,Epidemic diarrheal disease of infant mouse (disorder)
+1693,1694,C0277509,76821002,Epidemic cervical myalgia
+1694,1695,C0393675,230386004,Childhood epilepsy with occipital paroxysms
+1695,1696,C0393695,230412007,Myoclonic epilepsy of early childhood
+1696,1697,C0406508,238774003,Idiopathic livedo reticularis with winter ulceration
+1697,1698,C0037274,95320005,Disorder of skin
+1698,1699,C0341957,237283007,Eclampsia in labor
+1699,1700,C0393741,230474003,Chronic cluster headache unremitting from onset
+1700,1701,C0270859,26150009,Lower half migraine
+1701,1702,C0395932,361271008,Recurrent vestibulopathy
+1702,1703,C0338443,24059009,Acute cerebellar ataxia due to varicella
+1703,1704,C0477758,197955002,Other specified diseases of urinary system
+1704,1705,C0743332,445006008,Focal dystonia
+1705,1706,C0427129,250003005,Low level sensorimotor gait disorder
+1706,1707,C1304483,403470007,Penile venereal edema
+1707,1708,C0406670,238968009,Vulvodynia (disorder)
+1708,1709,C0152134,49823009,Internuclear ophthalmoplegia
+1709,1710,C0349716,279059006,Hypoglossal neuralgia
+1710,1711,C1277259,135830006,Pangastritis
+1711,1712,C0004608,193355009,Unspecified background retinopathy
+1712,1713,C0013369,236076004,Infective diarrhea
+1713,1714,C0021603,194437008,Disorders of initiating and maintaining sleep
+1714,1715,C0029782,198088009,Other specified diseases of male genital organ
+1715,1716,C0029782,198561009,[X]Other specified disorders of male genital organs
+1716,1717,C0043037,57019003,Verruca vulgaris
+1717,1718,C0376288,70449006,Amaurosis (disorder)
+1718,1719,C0269102,116342008,Endometrial cyst of ovary
+1719,1720,C0406792,239103006,Prurigo of pregnancy
+1720,1721,C0264677,85284003,"Angina, class III"
+1721,1722,C0406778,239088003,Dermatopathia pigmentosa reticularis (disorder)
+1722,1723,C0152164,18773000,Cyclical vomiting syndrome
+1723,1724,C0235840,268850004,Neonatal diarrhea
+1724,1725,C0393742,230475002,Chronic cluster headache evolved from episodic cluster headache
+1725,1726,C0406844,239175003,Post-thoracotomy pain syndrome
+1726,1727,C0546212,109252001,Brachioradial summer pruritus
+1727,1728,C1535033,155521003,(Chronic pharyngitis/nasopharyngitis) or (catarrh) or (congested nose)
+1728,1729,C1621769,418073009,Pseudoparalysis due to generalized arthritis
+1729,1730,C0005461,83275001,Binocular vision disorder
+1730,1731,C0024530,105649009,Disease due to Plasmodiidae
+1731,1732,C0155527,194697000,[X]Other disorders of ear
+1732,1733,C0155527,194384009,Other ear disorders
+1733,1734,C0393739,230472004,Episodic cluster headache
+1734,1735,C0472349,230390002,Localization-related symptomatic epilepsy
+1735,1736,C0158234,428360003,Arthropathy of joint of hand
+1736,1737,C0269660,69909000,Eclampsia added to pre-existing hypertension
+1737,1738,C0393718,230444006,Menstrual epilepsy
+1738,1739,C0549567,414032001,Disorder of pigmentation
+1739,1740,C0553565,196317007,Posteruptive teeth staining
+1740,1741,C1720077,422087002,Micropsia due to organic disease
+1741,1742,C0264634,71386003,Voice disorder due to iatrogenic factor
+1742,1743,C0348727,197520007,[X]Other specified diseases of esophagus
+1743,1744,C1283803,361116004,Female Kallman's syndrome
+1744,1745,C1302110,398884005,Postmyelography headache
+1745,1746,C0013405,59265000,Paroxysmal dyspnea
+1746,1747,C0022362,37156001,Disorder of jaw
+1747,1748,C0028850,45030009,Disorder of eye movements
+1748,1749,C0267525,11767005,Bilious vomiting following gastrointestinal surgery
+1749,1750,C0275753,56347002,Vitiligo of pinta
+1750,1751,C0406567,238846003,Collagen and elastic tissue disorders affecting skin
+1751,1752,C0423692,247371005,Gluteal syndrome
+1752,1753,C0451910,200951007,Erythema marginatum in acute rheumatic fever
+1753,1754,C0751783,230425004,Lafora disease
+1754,1755,C2919600,445163001,Bleeding Meckel's diverticulum
+1755,1756,C0020454,26857005,Hyperesthesia dolorosa
+1756,1757,C0154723,4473006,Migraine with aura
+1757,1758,C0270837,193004006,Epileptic automatism
+1758,1759,C0037284,95324001,Skin lesion
+1759,1760,C1290865,118928003,Disorder of abdominal wall
+1760,1761,C0027404,60380001,Narcolepsy (disorder)
+1761,1762,C0268877,70795003,Urethral cyst
+1762,1763,C0278198,16873003,Musicogenic seizure
+1763,1764,C0157735,201203002,Other specified sweat gland disorders
+1764,1765,C0270824,39194005,Visual epilepsy
+1765,1766,C1561862,442549008,High altitude periodic breathing
+1766,1767,C0156173,47812002,Functional diarrhea
+1767,1768,C0270977,76156000,Juvenile cerebellar degeneration AND myoclonus
+1768,1769,C0520947,57187006,Clumsy child
+1769,1770,C1960172,426190008,Maxillary cyst
