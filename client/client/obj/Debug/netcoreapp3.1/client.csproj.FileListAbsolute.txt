@@ -1,0 +1,16 @@
+C:\Users\Dima2\source\repos\client\client\bin\Debug\netcoreapp3.1\client.exe
+C:\Users\Dima2\source\repos\client\client\bin\Debug\netcoreapp3.1\client.deps.json
+C:\Users\Dima2\source\repos\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+C:\Users\Dima2\source\repos\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+C:\Users\Dima2\source\repos\client\client\bin\Debug\netcoreapp3.1\client.dll
+C:\Users\Dima2\source\repos\client\client\bin\Debug\netcoreapp3.1\client.pdb
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.csproj.AssemblyReference.cache
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.Form1.resources
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.Properties.Resources.resources
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.csproj.GenerateResource.cache
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.dll
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.pdb
+C:\Users\Dima2\source\repos\client\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
