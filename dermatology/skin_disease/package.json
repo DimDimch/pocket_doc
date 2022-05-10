@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.16.0",
+    "@tensorflow/tfjs-node": "^3.16.0",
+    "image-js": "^0.34.0"
+  }
+}
