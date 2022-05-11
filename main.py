@@ -10,6 +10,7 @@ from aiogram.types import ReplyKeyboardRemove, \
 import psycopg2
 from psycopg2 import Error
 
+from dermatology.skin_disease.skin_disease import dermatology_make_prediction
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
@@ -22,6 +23,7 @@ conditions = {}
 cursor = None
 
 is_query = False
+
 
 def main_loop():
     global cursor
@@ -115,8 +117,12 @@ async def get_photo(message: types.Message):
     global whitelist
     if message.from_user.id in whitelist:
         file_id = message.photo[-1].file_id
-        # await bot.send_photo(message.chat.id, file_id)
-        await bot.send_message(text="Похоже, что это: изображение", chat_id=message.from_user.id, reply_markup=start_kb)
+        file = await bot.get_file(file_id)
+        new_file_path = "dermatology/skin_disease/" + str(message.from_user.id) + ".jpg"
+        await bot.download_file(file.file_path, new_file_path)
+        await bot.send_message(text='Файл получил, пожалуйста, подождите...', chat_id=message.from_user.id)
+        disease = dermatology_make_prediction(str(message.from_user.id) + ".jpg")
+        await bot.send_message(text=disease, chat_id=message.from_user.id, reply_markup=start_kb)
     else:
         await message.reply("Недостаточно прав для выполнения данной команды")
 

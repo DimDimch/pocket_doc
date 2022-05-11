@@ -28,5 +28,5 @@ def dermatology_make_prediction(img_path):
 
 
 if __name__ == "__main__":
-    disease = dermatology_make_prediction('ISIC_0024839.jpg')
+    disease = dermatology_make_prediction('715567522.jpg')
     print(disease)
